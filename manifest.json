@@ -1,0 +1,72 @@
+{
+  "name": "MOZG | Marcio dos Santos Amorim",
+  "short_name": "MOZG",
+  "description": "Arquitetura de software, full stack, platform engineering, automacao, observabilidade e operacao para produtos digitais reais.",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#09101b",
+  "theme_color": "#0f172a",
+  "categories": ["technology", "business", "productivity"],
+  "icons": [
+    {
+      "src": "/logo-mini.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/logo-mini.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android/android-launchericon-512-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Projetos",
+      "url": "/projetos",
+      "description": "Dossiers tecnicos e operacionais por projeto."
+    },
+    {
+      "name": "Stacks",
+      "url": "/stacks",
+      "description": "Mapa das tecnologias recorrentes e seus casos."
+    },
+    {
+      "name": "Portfolio",
+      "url": "/portfolio",
+      "description": "Casos, stacks e capacidades em formato filtravel."
+    },
+    {
+      "name": "Radar",
+      "url": "/radar",
+      "description": "Explorador dinamico do inventario publico."
+    },
+    {
+      "name": "Ecossistema",
+      "url": "/ecossistema",
+      "description": "Visao dos projetos e frentes do laboratorio."
+    },
+    {
+      "name": "Contato",
+      "url": "/contato",
+      "description": "Canais principais e superficies publicas."
+    },
+    {
+      "name": "API e Auditoria",
+      "url": "/api",
+      "description": "Inspecao viva dos endpoints e exports publicos."
+    },
+    {
+      "name": "OpenAPI",
+      "url": "/openapi/",
+      "description": "Swagger UI padrao da camada publica e auditavel."
+    }
+  ]
+}

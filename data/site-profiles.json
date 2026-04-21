@@ -1,0 +1,359 @@
+{
+  "generated_at": "2026-04-21T00:39:40.240Z",
+  "active_profile": "patricia",
+  "profiles": [
+    {
+      "id": "mozg",
+      "slug": "mozg",
+      "label": "MOZG",
+      "title": "MOZG | Marcio dos Santos Amorim",
+      "headline": "Laboratorio principal",
+      "publicRepository": "https://github.com/mozgbrasil/node-vitepress",
+      "primaryUrl": "https://mozg.com.br",
+      "sourceUrls": [
+        "https://mozg.com.br/",
+        "https://github.com/mozgbrasil/node-vitepress"
+      ],
+      "referenceLinks": [
+        {
+          "href": "https://github.com/mozgbrasil/node-vitepress",
+          "label": "Repositorio publico",
+          "note": "codigo-fonte e historico publico do site"
+        },
+        {
+          "href": "https://github.com/sponsors/mozgbrasil",
+          "label": "GitHub Sponsors",
+          "note": "apoio publico ao laboratorio"
+        },
+        {
+          "href": "https://bsky.app/profile/mozgbrasil.bsky.social",
+          "label": "Bluesky",
+          "note": "canal publico complementar"
+        },
+        {
+          "href": "https://developers.google.com/profile/u/mozgbrasil",
+          "label": "Google Developers",
+          "note": "identidade publica no ecossistema Google"
+        },
+        {
+          "href": "https://openprofile.dev/profile/mozgbrasil",
+          "label": "OpenProfile",
+          "note": "perfil publico complementar"
+        },
+        {
+          "href": "https://brasilparticipativo.presidencia.gov.br/profiles/mozgbrasil/activity",
+          "label": "Brasil Participativo",
+          "note": "presenca publica complementar"
+        }
+      ],
+      "heroMetrics": [],
+      "heroMetricsEn": []
+    },
+    {
+      "id": "francisco",
+      "slug": "francisco",
+      "label": "Francisco",
+      "title": "Francisco Amorim | Perfil profissional",
+      "headline": "Perfil profissional",
+      "publicRepository": "https://github.com/mozgbrasil/node-vitepress-francisco",
+      "primaryUrl": "https://www.linkedin.com/in/francisco-amorim-35228438/",
+      "sourceUrls": [
+        "https://www.linkedin.com/in/francisco-amorim-35228438/",
+        "https://github.com/mozgbrasil/node-vitepress-francisco"
+      ],
+      "referenceLinks": [
+        {
+          "href": "https://www.linkedin.com/in/francisco-amorim-35228438/",
+          "label": "LinkedIn",
+          "note": "perfil profissional publico"
+        },
+        {
+          "href": "https://github.com/mozgbrasil/node-vitepress-francisco",
+          "label": "Repositorio publico",
+          "note": "destino publico da superficie editorial"
+        }
+      ],
+      "heroMetrics": [],
+      "heroMetricsEn": []
+    },
+    {
+      "id": "alice",
+      "slug": "alice",
+      "label": "Alice",
+      "title": "Maria Alice dos Santos Amorim | Mozg & Cerebrum",
+      "headline": "Chief Executive Officer and Founder of Mozg & Cerebrum",
+      "publicRepository": "https://github.com/mozgbrasil/node-vitepress-alice",
+      "primaryUrl": "https://mozg.com.br/",
+      "sourceUrls": [
+        "https://mozg.com.br/",
+        "https://www.cerebrum.com.br/",
+        "https://github.com/mozgbrasil/node-vitepress-alice"
+      ],
+      "referenceLinks": [
+        {
+          "href": "https://mozg.com.br/",
+          "label": "Mozg",
+          "note": "site institucional principal"
+        },
+        {
+          "href": "https://www.cerebrum.com.br/",
+          "label": "Cerebrum",
+          "note": "site institucional complementar"
+        },
+        {
+          "href": "https://github.com/mozgbrasil/node-vitepress-alice",
+          "label": "Repositorio publico",
+          "note": "destino publico da superficie editorial"
+        }
+      ],
+      "heroMetrics": [],
+      "heroMetricsEn": []
+    },
+    {
+      "id": "isabel",
+      "slug": "isabel",
+      "label": "Isabel",
+      "title": "Isabel dos Santos Amorim | Rarus Flat",
+      "headline": "CEO na Rarus Flat",
+      "publicRepository": "https://github.com/mozgbrasil/node-vitepress-isabel",
+      "primaryUrl": "https://rarusflats.com/",
+      "sourceUrls": [
+        "https://rarusflats.com/",
+        "https://github.com/mozgbrasil/node-vitepress-isabel"
+      ],
+      "referenceLinks": [
+        {
+          "href": "https://rarusflats.com/",
+          "label": "Rarus Flats",
+          "note": "site institucional principal"
+        },
+        {
+          "href": "https://github.com/mozgbrasil/node-vitepress-isabel",
+          "label": "Repositorio publico",
+          "note": "destino publico da superficie editorial"
+        }
+      ],
+      "heroMetrics": [],
+      "heroMetricsEn": []
+    },
+    {
+      "id": "marcela",
+      "slug": "marcela",
+      "label": "Marcela",
+      "title": "Marcela dos Santos Amorim | Perfil profissional",
+      "headline": "Perfil profissional",
+      "publicRepository": "https://github.com/mozgbrasil/node-vitepress-marcela",
+      "primaryUrl": "https://www.linkedin.com/in/marcela-amorim-19387817b/",
+      "sourceUrls": [
+        "https://www.linkedin.com/in/marcela-amorim-19387817b/",
+        "https://github.com/mozgbrasil/node-vitepress-marcela"
+      ],
+      "referenceLinks": [
+        {
+          "href": "https://www.linkedin.com/in/marcela-amorim-19387817b/",
+          "label": "LinkedIn",
+          "note": "perfil profissional publico"
+        },
+        {
+          "href": "https://github.com/mozgbrasil/node-vitepress-marcela",
+          "label": "Repositorio publico",
+          "note": "destino publico da superficie editorial"
+        }
+      ],
+      "heroMetrics": [],
+      "heroMetricsEn": []
+    },
+    {
+      "id": "abpcm",
+      "slug": "abpcm",
+      "label": "ABPCM",
+      "title": "ABPCM | Associação Brasileira de Pacientes de Cannabis Medicinal",
+      "headline": "Perfil institucional",
+      "publicRepository": "https://github.com/mozgbrasil/node-vitepress-abpcm",
+      "primaryUrl": "https://www.abpcm.org.br/",
+      "sourceUrls": [
+        "https://www.abpcm.org.br/",
+        "https://github.com/mozgbrasil/node-vitepress-abpcm"
+      ],
+      "referenceLinks": [
+        {
+          "href": "https://www.abpcm.org.br/",
+          "label": "ABPCM",
+          "note": "site institucional principal"
+        },
+        {
+          "href": "https://github.com/mozgbrasil/node-vitepress-abpcm",
+          "label": "Repositorio publico",
+          "note": "destino publico da superficie editorial"
+        }
+      ],
+      "heroMetrics": [],
+      "heroMetricsEn": []
+    },
+    {
+      "id": "marcelo",
+      "slug": "marcelo",
+      "label": "Marcelo",
+      "title": "Marcelo | Cerebrum",
+      "headline": "Perfil institucional",
+      "publicRepository": "https://github.com/mozgbrasil/node-vitepress-marcelo",
+      "primaryUrl": "https://www.cerebrum.com.br/",
+      "sourceUrls": [
+        "https://www.cerebrum.com.br/",
+        "https://www.linkedin.com/in/marcerebrum/"
+      ],
+      "referenceLinks": [
+        {
+          "href": "https://www.cerebrum.com.br/",
+          "label": "Cerebrum",
+          "note": "site institucional principal"
+        },
+        {
+          "href": "https://www.linkedin.com/in/marcerebrum/",
+          "label": "LinkedIn",
+          "note": "perfil profissional publico"
+        },
+        {
+          "href": "https://github.com/mozgbrasil/node-vitepress-marcelo",
+          "label": "Repositorio publico",
+          "note": "destino publico da stack editorial"
+        }
+      ],
+      "heroMetrics": [
+        {
+          "value": "Perfil vivo",
+          "label": "com narrativa institucional clara"
+        },
+        { "value": "Base publica", "label": "pronta para evolucao editorial" },
+        { "value": "Repositorio publico", "label": "como superficie auditavel" }
+      ],
+      "heroMetricsEn": [
+        {
+          "value": "Live profile",
+          "label": "with a clear institutional narrative"
+        },
+        {
+          "value": "Public foundation",
+          "label": "ready for editorial expansion"
+        },
+        { "value": "Public repository", "label": "as an auditable surface" }
+      ]
+    },
+    {
+      "id": "patricia",
+      "slug": "patricia",
+      "label": "Patricia",
+      "title": "Patricia | Perfil profissional",
+      "headline": "Perfil profissional",
+      "publicRepository": "https://github.com/mozgbrasil/node-vitepress-patricia",
+      "primaryUrl": "https://github.com/mozgbrasil/node-vitepress-patricia",
+      "sourceUrls": ["https://www.linkedin.com/in/patriciaamorim/"],
+      "referenceLinks": [
+        {
+          "href": "https://www.linkedin.com/in/patriciaamorim/",
+          "label": "LinkedIn",
+          "note": "perfil profissional publico"
+        },
+        {
+          "href": "https://github.com/mozgbrasil/node-vitepress-patricia",
+          "label": "Repositorio publico",
+          "note": "destino publico da superficie editorial"
+        }
+      ],
+      "heroMetrics": [
+        {
+          "value": "Perfil vivo",
+          "label": "com referencias publicas organizadas"
+        },
+        { "value": "LinkedIn", "label": "como trilha profissional principal" },
+        { "value": "Repositorio publico", "label": "para extensao editorial" }
+      ],
+      "heroMetricsEn": [
+        {
+          "value": "Live profile",
+          "label": "with organized public references"
+        },
+        { "value": "LinkedIn", "label": "as the main professional trail" },
+        { "value": "Public repository", "label": "for editorial expansion" }
+      ]
+    },
+    {
+      "id": "danielle",
+      "slug": "danielle",
+      "label": "Danielle",
+      "title": "Danielle | Perfil profissional",
+      "headline": "Perfil profissional",
+      "publicRepository": "https://github.com/mozgbrasil/node-vitepress-danielle",
+      "primaryUrl": "https://github.com/mozgbrasil/node-vitepress-danielle",
+      "sourceUrls": ["https://www.linkedin.com/in/danielle-amorim-31766435/"],
+      "referenceLinks": [
+        {
+          "href": "https://www.linkedin.com/in/danielle-amorim-31766435/",
+          "label": "LinkedIn",
+          "note": "perfil profissional publico"
+        },
+        {
+          "href": "https://github.com/mozgbrasil/node-vitepress-danielle",
+          "label": "Repositorio publico",
+          "note": "destino publico da superficie editorial"
+        }
+      ],
+      "heroMetrics": [
+        {
+          "value": "Perfil vivo",
+          "label": "com referencias profissionais claras"
+        },
+        {
+          "value": "LinkedIn",
+          "label": "como superficie profissional central"
+        },
+        { "value": "Repositorio publico", "label": "para expansao editorial" }
+      ],
+      "heroMetricsEn": [
+        {
+          "value": "Live profile",
+          "label": "with clear professional references"
+        },
+        { "value": "LinkedIn", "label": "as the central professional surface" },
+        { "value": "Public repository", "label": "for editorial expansion" }
+      ]
+    },
+    {
+      "id": "edificio-campanella",
+      "slug": "edificio-campanella",
+      "label": "Edificio Campanella",
+      "title": "Edificio Campanella | Presenca digital",
+      "headline": "Perfil institucional",
+      "publicRepository": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
+      "primaryUrl": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
+      "sourceUrls": [
+        "https://www.google.com/search?q=edificio+campanella&oq=edificio+campanella"
+      ],
+      "referenceLinks": [
+        {
+          "href": "https://www.google.com/search?q=edificio+campanella&oq=edificio+campanella",
+          "label": "Referencia publica",
+          "note": "busca publica do Edificio Campanella"
+        },
+        {
+          "href": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
+          "label": "Repositorio publico",
+          "note": "destino publico da superficie editorial"
+        }
+      ],
+      "heroMetrics": [
+        {
+          "value": "Presenca publica",
+          "label": "organizada para descoberta rapida"
+        },
+        { "value": "Base institucional", "label": "pronta para novos blocos" },
+        { "value": "Repositorio publico", "label": "como superficie auditavel" }
+      ],
+      "heroMetricsEn": [
+        { "value": "Public presence", "label": "organized for fast discovery" },
+        { "value": "Institutional base", "label": "ready for new sections" },
+        { "value": "Public repository", "label": "as an auditable surface" }
+      ]
+    }
+  ]
+}

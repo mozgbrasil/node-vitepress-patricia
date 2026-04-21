@@ -1,0 +1,45 @@
+{
+  "generated_at": "2026-04-21T00:39:40.240Z",
+  "filters_applied": {},
+  "total_journeys": 5,
+  "total_available_journeys": 5,
+  "stages": [
+    { "label": "checkout", "count": 1 },
+    { "label": "confirmation", "count": 1 },
+    { "label": "policy", "count": 1 },
+    { "label": "review", "count": 1 },
+    { "label": "subscription", "count": 1 }
+  ],
+  "journeys": [
+    {
+      "title": "Finalizar compra",
+      "description": "Canal público para iniciar contratação, alinhar escopo e fechar o atendimento comercial.",
+      "href": "/finalizar-compra",
+      "stage": "checkout"
+    },
+    {
+      "title": "Carrinho",
+      "description": "Referência pública para revisão de itens, intenção de compra e organização da jornada.",
+      "href": "/carrinho",
+      "stage": "review"
+    },
+    {
+      "title": "Obrigado",
+      "description": "Página pública para pós-compra, envio de comprovante e acompanhamento inicial.",
+      "href": "/obrigado",
+      "stage": "confirmation"
+    },
+    {
+      "title": "Confirmação de assinatura",
+      "description": "Camada pública para confirmações recorrentes, planos ativos e continuidade do serviço.",
+      "href": "/confirmacao-de-assinatura",
+      "stage": "subscription"
+    },
+    {
+      "title": "Política de devolução",
+      "description": "Política pública com critérios de cancelamento, ajuste, reembolso e contato pós-compra.",
+      "href": "/politica-de-devolucao",
+      "stage": "policy"
+    }
+  ]
+}

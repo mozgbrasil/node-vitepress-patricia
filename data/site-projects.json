@@ -1,0 +1,420 @@
+{
+  "generated_at": "2026-04-21T00:39:40.240Z",
+  "filters_applied": {},
+  "total_dossiers": 6,
+  "total_available_dossiers": 6,
+  "featured_dossiers": 6,
+  "categories": [
+    { "label": "docs", "count": 3 },
+    { "label": "brand", "count": 2 },
+    { "label": "application", "count": 1 }
+  ],
+  "statuses": [
+    { "label": "active", "count": 5 },
+    { "label": "evolving", "count": 1 }
+  ],
+  "technologies": [
+    { "label": "TypeScript", "count": 2 },
+    { "label": "badges", "count": 1 },
+    { "label": "branding", "count": 1 },
+    { "label": "content", "count": 1 },
+    { "label": "Docker", "count": 1 },
+    { "label": "ESLint", "count": 1 },
+    { "label": "GitHub", "count": 1 },
+    { "label": "GitHub Pages", "count": 1 },
+    { "label": "HTML", "count": 1 },
+    { "label": "landing", "count": 1 },
+    { "label": "Lit", "count": 1 },
+    { "label": "Markdown", "count": 1 },
+    { "label": "Netlify", "count": 1 },
+    { "label": "Next.js", "count": 1 },
+    { "label": "npm", "count": 1 },
+    { "label": "Nx", "count": 1 }
+  ],
+  "capabilities": [
+    { "label": "Produto full stack", "count": 6 },
+    { "label": "Observabilidade e operacao", "count": 5 },
+    { "label": "Arquitetura e contratos", "count": 4 },
+    { "label": "Platform engineering", "count": 1 }
+  ],
+  "dossiers": [
+    {
+      "title": "node-next",
+      "eyebrow": "Plataforma SaaS",
+      "category": "application",
+      "status": "active",
+      "description": "Ambiente Nx com apps Next, contratos cross-app, smoke tests e stack Docker de desenvolvimento.",
+      "href": "https://mozg.com.br/projetos/node-next",
+      "tags": ["Next.js", "Nx", "Playwright", "Docker"],
+      "stack": ["Next.js", "Nx", "TypeScript", "Playwright", "Docker"],
+      "focus": [
+        "produto SaaS",
+        "contratos cross-app",
+        "experiencia full stack"
+      ],
+      "outcomes": [
+        "ambiente dev padronizado",
+        "testes de navegacao",
+        "readiness de plataforma"
+      ],
+      "featured": true,
+      "slug": "node-next",
+      "pagePath": "/projetos/node-next",
+      "whyItExists": "Frente SaaS e de contratos cross-app para validar produto full stack, autenticacao, runtime local e quality gates em escala maior.",
+      "highlights": [
+        "workspace Nx com multiplos apps",
+        "contratos de navegacao e seguranca via Playwright",
+        "operacao local com Docker e scripts de plataforma"
+      ],
+      "commands": [
+        {
+          "label": "Subir plataforma",
+          "command": "npm run docker:platform:up",
+          "context": "levanta a stack local padronizada para desenvolvimento"
+        },
+        {
+          "label": "Health de plataforma",
+          "command": "npm run platform:health",
+          "context": "valida a saude integrada do ambiente principal"
+        },
+        {
+          "label": "Smoke visual",
+          "command": "npm run e2e:saas:visual-smoke",
+          "context": "checagem visual e contratual das rotas principais"
+        }
+      ],
+      "surfaces": [
+        {
+          "label": "Dossier publico",
+          "href": "https://mozg.com.br/projetos/node-next"
+        }
+      ],
+      "relatedCapabilities": [
+        "Produto full stack",
+        "Platform engineering",
+        "Observabilidade e operacao"
+      ],
+      "maintenanceNotes": [
+        "o valor principal esta na disciplina cross-app, nao apenas no volume de apps",
+        "scripts de plataforma servem como trilha oficial de operacao local",
+        "contratos e smoke tests ajudam a endurecer evolucoes maiores"
+      ],
+      "referenceSources": ["github-profile"]
+    },
+    {
+      "title": "node-vitepress",
+      "eyebrow": "Engine editorial",
+      "category": "docs",
+      "status": "active",
+      "description": "Plataforma editorial para o site institucional, documentação pública, catálogo compartilhado e dados públicos consistentes.",
+      "href": "https://mozg.com.br/projetos/node-vitepress",
+      "tags": ["VitePress", "Vitest", "SEO", "auditability"],
+      "stack": ["VitePress", "Vitest", "ESLint", "Prettier", "Netlify"],
+      "focus": [
+        "conteudo orientado por dados",
+        "publicacao estatica",
+        "discoverability"
+      ],
+      "outcomes": [
+        "catálogo central reutilizável",
+        "exports JSON publicos",
+        "tema modular e pesquisavel"
+      ],
+      "featured": true,
+      "slug": "node-vitepress",
+      "pagePath": "/projetos/node-vitepress",
+      "whyItExists": "Motor editorial do ecossistema MOZG para consolidar site institucional, documentacao, portfolio e APIs publicas com uma base auditavel.",
+      "highlights": [
+        "conteudo tipado e compartilhado",
+        "tema modular com discovery, portfolio e stacks",
+        "site e API fechando com a mesma esteira local"
+      ],
+      "commands": [
+        {
+          "label": "Dev local",
+          "command": "npm run dev",
+          "context": "gera snapshots e sobe o site VitePress localmente"
+        },
+        {
+          "label": "Export publico",
+          "command": "npm run site:export",
+          "context": "gera os artefatos JSON, llms.txt e robots.txt"
+        },
+        {
+          "label": "Esteira completa",
+          "command": "npm run validate",
+          "context": "fecha formatacao, lint, testes, build e matrix-check"
+        }
+      ],
+      "surfaces": [
+        {
+          "label": "Dossier publico",
+          "href": "https://mozg.com.br/projetos/node-vitepress"
+        },
+        { "label": "Site publicado", "href": "https://mozg.com.br" }
+      ],
+      "relatedCapabilities": [
+        "Produto full stack",
+        "Arquitetura e contratos",
+        "Observabilidade e operacao"
+      ],
+      "maintenanceNotes": [
+        "o catalogo central e a fonte unica para tema, API e exports",
+        "qualquer superficie nova deve refletir README, testes e scripts",
+        "foco em paginas pesquisaveis e payloads pequenos antes de abstrair demais"
+      ],
+      "referenceSources": ["github-profile", "mozgbrasil.github.io"]
+    },
+    {
+      "title": "node-web-components",
+      "eyebrow": "Biblioteca UI e Storybook",
+      "category": "docs",
+      "status": "active",
+      "description": "Biblioteca pública de Web Components com Storybook, wrappers multiplataforma e distribuição consistente no npm.",
+      "href": "https://mozg.com.br/projetos/node-web-components",
+      "tags": ["Web Components", "Storybook", "npm", "auditability"],
+      "stack": ["TypeScript", "Vite", "Storybook", "Lit", "npm"],
+      "focus": [
+        "componentes reutilizaveis",
+        "showcase público",
+        "release consistente"
+      ],
+      "outcomes": [
+        "storybook publico",
+        "pacote npm acessível",
+        "catálogo tipado central"
+      ],
+      "featured": true,
+      "slug": "node-web-components",
+      "pagePath": "/projetos/node-web-components",
+      "whyItExists": "Biblioteca publica para consolidar componentes reutilizaveis, Storybook navegavel e distribuicao auditavel no npm.",
+      "highlights": [
+        "catalogo tipado com auditoria deterministica",
+        "showcase publico em Storybook com explorers por familia",
+        "manifesto de release para npm com revisao humana obrigatoria"
+      ],
+      "commands": [
+        {
+          "label": "Storybook local",
+          "command": "npm run storybook",
+          "context": "sobe o showcase navegavel para inspecao dos componentes"
+        },
+        {
+          "label": "Build do Storybook",
+          "command": "npm run build:storybook",
+          "context": "gera a superficie estatica publicada no GitHub Pages"
+        },
+        {
+          "label": "Manifesto de release",
+          "command": "npm run release:manifest",
+          "context": "documenta metadados publicos, gates e politica operacional do pacote"
+        }
+      ],
+      "surfaces": [
+        {
+          "label": "Storybook publicado",
+          "href": "https://mozgbrasil.github.io/node-web-components-storybook/?path=/docs/catalog-explorer--docs"
+        },
+        {
+          "label": "Pacote npm",
+          "href": "https://www.npmjs.com/package/@mozgbrasil/node-web-components"
+        },
+        {
+          "label": "Repositorio publico de showcase",
+          "href": "https://github.com/mozgbrasil/node-web-components-storybook"
+        }
+      ],
+      "relatedCapabilities": [
+        "Produto full stack",
+        "Arquitetura e contratos",
+        "Observabilidade e operacao"
+      ],
+      "maintenanceNotes": [
+        "metadados publicos do pacote devem permanecer alinhados com as superficies publicas oficiais",
+        "catalogo central, Storybook e manifesto de release devem evoluir juntos",
+        "a publicacao fecha com revisao humana e sem git push automatico por agents"
+      ],
+      "referenceSources": ["github-profile", "mozgbrasil.github.io"]
+    },
+    {
+      "title": "mozg.com.br",
+      "eyebrow": "Site principal",
+      "category": "brand",
+      "status": "active",
+      "description": "Presença institucional principal com portfólio, serviços, documentação pública e apresentação da marca em domínio próprio.",
+      "href": "https://mozg.com.br",
+      "tags": ["branding", "SEO", "PWA", "content"],
+      "stack": ["branding", "SEO", "PWA", "structured data", "content"],
+      "focus": [
+        "presença da marca",
+        "narrativa editorial",
+        "portfólio público"
+      ],
+      "outcomes": [
+        "dominio proprio consistente",
+        "distribuição institucional",
+        "base para evolução contínua"
+      ],
+      "featured": true,
+      "slug": "mozg-com-br",
+      "pagePath": "/projetos/mozg-com-br",
+      "whyItExists": "Superficie institucional principal para consolidar posicionamento, portfolio, servicos, documentacao publica e implantacoes da marca.",
+      "highlights": [
+        "dominio proprio com narrativa forte",
+        "SEO tecnico, PWA e exports publicos",
+        "base para evolucao continua do portfolio e da operacao"
+      ],
+      "commands": [
+        {
+          "label": "Site local",
+          "command": "npm run dev",
+          "context": "usa o motor VitePress do projeto node-vitepress"
+        },
+        {
+          "label": "Build publicado",
+          "command": "npm run build",
+          "context": "gera o bundle estatico que alimenta as rotas publicas"
+        }
+      ],
+      "surfaces": [
+        { "label": "Site principal", "href": "https://mozg.com.br" },
+        {
+          "label": "Curriculo",
+          "href": "https://mozg.com.br/assets/curriculum.pdf"
+        }
+      ],
+      "relatedCapabilities": [
+        "Produto full stack",
+        "Arquitetura e contratos",
+        "Observabilidade e operacao"
+      ],
+      "maintenanceNotes": [
+        "a coerencia visual parte do editorial e da estrutura de dados, nao de layouts isolados",
+        "o site precisa continuar simples de expandir com novas paginas e datasets",
+        "metadados e exports publicos servem como camada de auditabilidade externa"
+      ],
+      "referenceSources": ["mozgbrasil.github.io", "github-profile"]
+    },
+    {
+      "title": "mozgbrasil.github.io",
+      "eyebrow": "Portal complementar",
+      "category": "brand",
+      "status": "evolving",
+      "description": "Portal complementar para apresentação profissional, distribuição de links públicos e reforço de presença digital.",
+      "href": "https://mozgbrasil.github.io/",
+      "tags": ["GitHub Pages", "portfolio", "signals", "landing"],
+      "stack": ["GitHub Pages", "HTML", "signals", "landing"],
+      "focus": [
+        "sinais públicos",
+        "landing complementar",
+        "distribuição de links"
+      ],
+      "outcomes": [
+        "amplificação de presença",
+        "hub de canais",
+        "portfólio vivo"
+      ],
+      "featured": true,
+      "slug": "mozgbrasil-github-io",
+      "pagePath": "/projetos/mozgbrasil-github-io",
+      "whyItExists": "Portal complementar em GitHub Pages para reforcar apresentacao profissional, distribuir links publicos e ampliar a descoberta da marca.",
+      "highlights": [
+        "landing estatica com narrativa direta",
+        "hub publico de links e canais",
+        "PWA simples publicada no GitHub Pages"
+      ],
+      "commands": [
+        {
+          "label": "Servidor local",
+          "command": "python3 -m http.server 8080",
+          "context": "serve a landing estatica localmente"
+        },
+        {
+          "label": "Build do projeto",
+          "command": "./scripts/build.sh",
+          "context": "executa a rotina de build e verificacao leve da landing"
+        }
+      ],
+      "surfaces": [
+        {
+          "label": "Portal complementar",
+          "href": "https://mozgbrasil.github.io/"
+        },
+        {
+          "label": "Dossier publico",
+          "href": "https://mozg.com.br/projetos/mozgbrasil-github-io"
+        }
+      ],
+      "relatedCapabilities": [
+        "Produto full stack",
+        "Observabilidade e operacao"
+      ],
+      "maintenanceNotes": [
+        "a landing serve como reforco narrativo e canal de distribuicao",
+        "o dashboard do GitHub privilegia cache local e falhas suaves",
+        "metadados SEO e PWA seguem alinhados ao dominio principal"
+      ],
+      "referenceSources": ["mozgbrasil.github.io"]
+    },
+    {
+      "title": "github-profile",
+      "eyebrow": "Perfil público",
+      "category": "docs",
+      "status": "active",
+      "description": "Resumo enxuto da especialidade, portfólio e links públicos para uma apresentação profissional coerente no GitHub.",
+      "href": "https://mozg.com.br/projetos/github-profile",
+      "tags": ["README profile", "badges", "specialties", "signals"],
+      "stack": ["Markdown", "GitHub", "badges", "portfolio"],
+      "focus": [
+        "identidade profissional",
+        "contexto rápido de especialidade",
+        "camada pública clara"
+      ],
+      "outcomes": [
+        "perfil mais claro",
+        "links publicos coerentes",
+        "distribuição editorial enxuta"
+      ],
+      "featured": true,
+      "slug": "github-profile",
+      "pagePath": "/projetos/github-profile",
+      "whyItExists": "Perfil profissional condensado para superficies do GitHub, reforcando especialidades, portfolio e links publicos em poucos segundos.",
+      "highlights": [
+        "README orientado a sinais e especialidades",
+        "badges e links publicos coerentes",
+        "camada leve para distribuicao editorial no GitHub"
+      ],
+      "commands": [
+        {
+          "label": "Format check",
+          "command": "npm run format:check",
+          "context": "valida o README e os artefatos do perfil"
+        },
+        {
+          "label": "Lint",
+          "command": "npm run lint",
+          "context": "executa as checagens da pipeline do perfil"
+        },
+        {
+          "label": "Testes",
+          "command": "npm test",
+          "context": "roda a rotina de validacao do projeto"
+        }
+      ],
+      "surfaces": [
+        { "label": "Perfil GitHub", "href": "https://github.com/mozgbrasil" },
+        {
+          "label": "Dossier publico",
+          "href": "https://mozg.com.br/projetos/github-profile"
+        }
+      ],
+      "relatedCapabilities": ["Arquitetura e contratos", "Produto full stack"],
+      "maintenanceNotes": [
+        "o foco esta em clareza editorial e distribuicao, nao em complexidade visual",
+        "serve como camada de entrada para site principal, portal e canais publicos",
+        "os sinais aqui ajudam a calibrar a narrativa das demais superficies publicas"
+      ],
+      "referenceSources": ["github-profile"]
+    }
+  ]
+}

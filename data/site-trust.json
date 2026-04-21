@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-04-21T00:39:40.240Z",
+  "filters_applied": {},
+  "total_signals": 2,
+  "total_available_signals": 2,
+  "linked_signals": 2,
+  "signals": [
+    {
+      "title": "Perfil publico principal",
+      "description": "Camada publica central para contexto profissional e relacionamento.",
+      "href": "https://www.linkedin.com/in/patriciaamorim/",
+      "value": "LinkedIn"
+    },
+    {
+      "title": "Repositorio publico do perfil",
+      "description": "Base versionada para publicacao, manutencao e auditoria do conteudo.",
+      "href": "https://github.com/mozgbrasil/node-vitepress-patricia",
+      "value": "GitHub"
+    }
+  ]
+}
