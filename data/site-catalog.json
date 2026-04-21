@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T02:08:22.384Z",
+  "generated_at": "2026-04-21T03:11:59.645Z",
   "active_profile": "patricia",
   "catalog": {
     "site": {
@@ -21,7 +21,7 @@
       "googleDevelopers": "",
       "openProfile": "",
       "curriculum": "https://github.com/mozgbrasil/node-vitepress-patricia",
-      "githubPages": "https://github.com/mozgbrasil/node-vitepress-patricia",
+      "githubPages": "",
       "profileImage": "/logo-mini.svg",
       "institutionLogo": "",
       "mapsUrl": "",
@@ -57,10 +57,6 @@
           "repositorio publico"
         ],
         "sameAs": [
-          "https://github.com/mozgbrasil/node-vitepress-patricia",
-          "https://www.linkedin.com/in/patriciaamorim/",
-          "https://github.com/mozgbrasil/node-vitepress-patricia",
-          "https://github.com/mozgbrasil/node-vitepress-patricia",
           "https://github.com/mozgbrasil/node-vitepress-patricia",
           "https://www.linkedin.com/in/patriciaamorim/"
         ]
@@ -368,7 +364,7 @@
     }
   },
   "audit": {
-    "generated_at": "2026-04-21T02:08:22.384Z",
+    "generated_at": "2026-04-21T03:11:59.645Z",
     "company": "Patricia",
     "site_url": "https://github.com/mozgbrasil/node-vitepress-patricia",
     "counts": {
