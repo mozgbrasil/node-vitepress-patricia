@@ -5,92 +5,15 @@
 - Role: Perfil profissional
 - Location: Brasil
 - Site: https://github.com/mozgbrasil/node-vitepress-patricia
-- Generated at: 2026-04-21T00:39:40.240Z
+- Generated at: 2026-04-21T02:08:22.384Z
 
 ## Summary
 Perfil editorial de Patricia, com referências públicas organizadas, base pronta para expansão e distribuição auditável.
 
 ## Pages
-- Inicio: https://github.com/mozgbrasil/node-vitepress-patricia/
-- Ecossistema: https://github.com/mozgbrasil/node-vitepress-patricia/ecossistema
-- Operacao: https://github.com/mozgbrasil/node-vitepress-patricia/operacao
-- API e Auditoria: https://github.com/mozgbrasil/node-vitepress-patricia/api
-- OpenAPI: https://github.com/mozgbrasil/node-vitepress-patricia/openapi
-- Portfolio: https://github.com/mozgbrasil/node-vitepress-patricia/portfolio
-- Política de devolução: https://github.com/mozgbrasil/node-vitepress-patricia/politica-de-devolucao
-- Finalizar compra: https://github.com/mozgbrasil/node-vitepress-patricia/finalizar-compra
-- Carrinho: https://github.com/mozgbrasil/node-vitepress-patricia/carrinho
-- Obrigado: https://github.com/mozgbrasil/node-vitepress-patricia/obrigado
-- Confirmação de assinatura: https://github.com/mozgbrasil/node-vitepress-patricia/confirmacao-de-assinatura
-- Projetos: https://github.com/mozgbrasil/node-vitepress-patricia/projetos
-- Stacks: https://github.com/mozgbrasil/node-vitepress-patricia/stacks
-- Jornada pública: https://github.com/mozgbrasil/node-vitepress-patricia/jornada
-- Sinais de confiança: https://github.com/mozgbrasil/node-vitepress-patricia/sinais
-- Radar: https://github.com/mozgbrasil/node-vitepress-patricia/radar
-- Perfis: https://github.com/mozgbrasil/node-vitepress-patricia/presenca
+- Patricia | Perfil profissional: https://github.com/mozgbrasil/node-vitepress-patricia/
 - Contato: https://github.com/mozgbrasil/node-vitepress-patricia/contato
-- Política de privacidade: https://github.com/mozgbrasil/node-vitepress-patricia/privacypolicy
-- Categorias: https://github.com/mozgbrasil/node-vitepress-patricia/categorias
-- Categoria · Plataforma: https://github.com/mozgbrasil/node-vitepress-patricia/categorias/platform
-- Categoria · Aplicacao: https://github.com/mozgbrasil/node-vitepress-patricia/categorias/application
-- Categoria · Automacao: https://github.com/mozgbrasil/node-vitepress-patricia/categorias/automation
-- Categoria · Docs: https://github.com/mozgbrasil/node-vitepress-patricia/categorias/docs
-- Categoria · Marca: https://github.com/mozgbrasil/node-vitepress-patricia/categorias/brand
-- Projeto · node-next: https://github.com/mozgbrasil/node-vitepress-patricia/projetos/node-next
-- Projeto · node-vitepress: https://github.com/mozgbrasil/node-vitepress-patricia/projetos/node-vitepress
-- Projeto · node-web-components: https://github.com/mozgbrasil/node-vitepress-patricia/projetos/node-web-components
-- Projeto · mozg.com.br: https://github.com/mozgbrasil/node-vitepress-patricia/projetos/mozg-com-br
-- Projeto · mozgbrasil.github.io: https://github.com/mozgbrasil/node-vitepress-patricia/projetos/mozgbrasil-github-io
-- Projeto · github-profile: https://github.com/mozgbrasil/node-vitepress-patricia/projetos/github-profile
-- Stack · automation: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/automation
-- Stack · badges: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/badges
-- Stack · Bash: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/bash
-- Stack · BFF: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/bff
-- Stack · branding: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/branding
-- Stack · content: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/content
-- Stack · Docker: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/docker
-- Stack · ESLint: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/eslint
-- Stack · Firebase: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/firebase
-- Stack · GitHub: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/github
-- Stack · GitHub Actions: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/github-actions
-- Stack · GitHub Pages: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/github-pages
-- Stack · Helm: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/helm
-- Stack · HTML: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/html
-- Stack · JSON envelopes: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/json-envelopes
-- Stack · Kubernetes: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/kubernetes
-- Stack · landing: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/landing
-- Stack · Lit: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/lit
-- Stack · LM Studio: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/lm-studio
-- Stack · Markdown: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/markdown
-- Stack · Netlify: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/netlify
-- Stack · Next.js: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/next-js
-- Stack · Nginx: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/nginx
-- Stack · npm: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/npm
-- Stack · Nx: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/nx
-- Stack · Playwright: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/playwright
-- Stack · portfolio: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/portfolio
-- Stack · Prettier: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/prettier
-- Stack · PWA: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/pwa
-- Stack · Python: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/python
-- Stack · React: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/react
-- Stack · request metadata: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/request-metadata
-- Stack · schema.org: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/schema-org
-- Stack · SEO: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/seo
-- Stack · service worker: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/service-worker
-- Stack · signals: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/signals
-- Stack · SQLite: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/sqlite
-- Stack · Storybook: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/storybook
-- Stack · structured data: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/structured-data
-- Stack · Terraform: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/terraform
-- Stack · TypeScript: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/typescript
-- Stack · Vite: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/vite
-- Stack · VitePress: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/vitepress
-- Stack · Vitest: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/vitest
-- Stack · Vue: https://github.com/mozgbrasil/node-vitepress-patricia/stacks/vue
-- Operacao · Conteudo orientado por dados: https://github.com/mozgbrasil/node-vitepress-patricia/operacao/conteudo-orientado-por-dados
-- Operacao · SEO e distribuicao: https://github.com/mozgbrasil/node-vitepress-patricia/operacao/seo-e-distribuicao
-- Operacao · API auditavel: https://github.com/mozgbrasil/node-vitepress-patricia/operacao/api-auditavel
-- Operacao · Operacao previsivel: https://github.com/mozgbrasil/node-vitepress-patricia/operacao/operacao-previsivel
+- Perfis: https://github.com/mozgbrasil/node-vitepress-patricia/presenca
 
 ## API
 - GET /api/health: Status operacional e metadados de request.
@@ -116,73 +39,28 @@ Perfil editorial de Patricia, com referências públicas organizadas, base pront
 - GET /api/trust: Diretorio de sinais institucionais para contato, prova social e politicas publicas.
 
 ## Projects
-- node-next: Ambiente Nx com apps Next, contratos cross-app, smoke tests e stack Docker de desenvolvimento.
-- node-vitepress: Plataforma editorial para o site institucional, documentação pública, catálogo compartilhado e dados públicos consistentes.
-- node-web-components: Biblioteca pública de Web Components com Storybook, wrappers multiplataforma e distribuição consistente no npm.
-- mozg.com.br: Presença institucional principal com portfólio, serviços, documentação pública e apresentação da marca em domínio próprio.
-- mozgbrasil.github.io: Portal complementar para apresentação profissional, distribuição de links públicos e reforço de presença digital.
-- github-profile: Resumo enxuto da especialidade, portfólio e links públicos para uma apresentação profissional coerente no GitHub.
+
 
 ## Portfolio
-- node-next [application/active]: Ambiente Nx com apps Next, contratos cross-app, smoke tests e stack Docker de desenvolvimento.
-- node-vitepress [docs/active]: Plataforma editorial para o site institucional, documentação pública, catálogo compartilhado e dados públicos consistentes.
-- node-web-components [docs/active]: Biblioteca pública de Web Components com Storybook, wrappers multiplataforma e distribuição consistente no npm.
-- mozg.com.br [brand/active]: Presença institucional principal com portfólio, serviços, documentação pública e apresentação da marca em domínio próprio.
-- mozgbrasil.github.io [brand/evolving]: Portal complementar para apresentação profissional, distribuição de links públicos e reforço de presença digital.
-- github-profile [docs/active]: Resumo enxuto da especialidade, portfólio e links públicos para uma apresentação profissional coerente no GitHub.
+
 
 ## Project Dossiers
-- node-next: Frente SaaS e de contratos cross-app para validar produto full stack, autenticacao, runtime local e quality gates em escala maior. (/projetos/node-next)
-- node-vitepress: Motor editorial do ecossistema MOZG para consolidar site institucional, documentacao, portfolio e APIs publicas com uma base auditavel. (/projetos/node-vitepress)
-- node-web-components: Biblioteca publica para consolidar componentes reutilizaveis, Storybook navegavel e distribuicao auditavel no npm. (/projetos/node-web-components)
-- mozg.com.br: Superficie institucional principal para consolidar posicionamento, portfolio, servicos, documentacao publica e implantacoes da marca. (/projetos/mozg-com-br)
-- mozgbrasil.github.io: Portal complementar em GitHub Pages para reforcar apresentacao profissional, distribuir links publicos e ampliar a descoberta da marca. (/projetos/mozgbrasil-github-io)
-- github-profile: Perfil profissional condensado para superficies do GitHub, reforcando especialidades, portfolio e links publicos em poucos segundos. (/projetos/github-profile)
+
 
 ## Capability Domains
-- Arquitetura e contratos: Modelagem de dominio, envelopes previsiveis, rotas auditaveis e estruturas prontas para evolucao segura.
-- Produto full stack: Experiencias web, componentes reutilizaveis, integrações entre front e back e docs operacionais no mesmo ritmo.
-- Platform engineering: Ambientes locais repetiveis, CI por matriz, infraestrutura como produto e readiness tecnica por projeto.
-- Observabilidade e operacao: Health checks, request IDs, exports estaticos, snapshots operacionais e gatilhos de verificacao reais.
-- Automacao e AI ops: Pipelines locais, automacoes assistidas, guardrails de execucao e combinacao de dados, runtime e operacao.
+
 
 ## Categories
-- Plataforma: Categoria voltada a bases compartilhadas, esteiras previsiveis, infraestrutura como produto e maturidade operacional. (/categorias/platform)
-- Aplicacao: Categoria orientada a produtos digitais com front, back, autenticacao, contratos e experiencia de uso no mesmo ritmo. (/categorias/application)
-- Automacao: Categoria voltada a automacoes assistidas, pipelines multimodais, runtime local e operacao segura com estado persistente. (/categorias/automation)
-- Docs: Categoria dedicada a conteudo tipado, documentacao viva, exports publicos e camadas de descoberta prontas para evolucao. (/categorias/docs)
-- Marca: Categoria focada na superficie institucional, na narrativa tecnica e na distribuicao coerente da marca em canais publicos. (/categorias/brand)
+
 
 ## Stacks
-- TypeScript: 2 casos / 0 dominios (/stacks/typescript)
-- Docker: 1 casos / 1 dominios (/stacks/docker)
-- Netlify: 1 casos / 1 dominios (/stacks/netlify)
-- Next.js: 1 casos / 1 dominios (/stacks/next-js)
-- VitePress: 1 casos / 1 dominios (/stacks/vitepress)
-- Vitest: 1 casos / 1 dominios (/stacks/vitest)
-- badges: 1 casos / 0 dominios (/stacks/badges)
-- branding: 1 casos / 0 dominios (/stacks/branding)
-- content: 1 casos / 0 dominios (/stacks/content)
-- ESLint: 1 casos / 0 dominios (/stacks/eslint)
-- GitHub: 1 casos / 0 dominios (/stacks/github)
-- GitHub Pages: 1 casos / 0 dominios (/stacks/github-pages)
-- HTML: 1 casos / 0 dominios (/stacks/html)
-- landing: 1 casos / 0 dominios (/stacks/landing)
-- Lit: 1 casos / 0 dominios (/stacks/lit)
-- Markdown: 1 casos / 0 dominios (/stacks/markdown)
+
 
 ## Operations
-- Conteudo orientado por dados: O mesmo catalogo compartilhado alimenta site, APIs, exports e paginas derivadas, reduzindo drift entre narrativa, runtime e operacao. (/operacao/conteudo-orientado-por-dados)
-- SEO e distribuicao: Robots, sitemap, schema.org, llms.txt, PWA e canais publicos trabalham em conjunto para reforcar descoberta e distribuicao. (/operacao/seo-e-distribuicao)
-- API auditavel: Rotas pequenas com metadata de request, filtros explicitos e payloads previsiveis tornam discovery, troubleshooting e automacao mais simples. (/operacao/api-auditavel)
-- Operacao previsivel: Scripts, health checks, matrix-check, Docker local e comandos documentados tornam a evolucao menos fragil e mais repetivel. (/operacao/operacao-previsivel)
+
 
 ## Public Journeys
-- Finalizar compra: Canal público para iniciar contratação, alinhar escopo e fechar o atendimento comercial. (/finalizar-compra)
-- Carrinho: Referência pública para revisão de itens, intenção de compra e organização da jornada. (/carrinho)
-- Obrigado: Página pública para pós-compra, envio de comprovante e acompanhamento inicial. (/obrigado)
-- Confirmação de assinatura: Camada pública para confirmações recorrentes, planos ativos e continuidade do serviço. (/confirmacao-de-assinatura)
-- Política de devolução: Política pública com critérios de cancelamento, ajuste, reembolso e contato pós-compra. (/politica-de-devolucao)
+
 
 ## Trust Signals
 - Perfil publico principal: Camada publica central para contexto profissional e relacionamento. [LinkedIn]
@@ -205,10 +83,4 @@ Perfil editorial de Patricia, com referências públicas organizadas, base pront
 - https://github.com/mozgbrasil/node-vitepress-patricia/robots.txt
 
 ## Quality Gates
-- npm run site:export
-- npm run format:check
-- npm run lint
-- npm test
-- npm run build
-- npm run matrix:check
 
