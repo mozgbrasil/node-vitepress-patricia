@@ -1,7 +1,7 @@
 {
-  "name": "Patricia | Perfil profissional",
-  "short_name": "Patricia",
-  "description": "Perfil editorial de Patricia, com referências públicas organizadas, base pronta para expansão e distribuição auditável.",
+  "name": "Patricia Amorim | Perfil profissional",
+  "short_name": "Patricia Amorim",
+  "description": "Perfil editorial de Patricia Amorim com LinkedIn, perfil ao vivo e repositório público organizados como superfícies complementares.",
   "lang": "pt-BR",
   "dir": "ltr",
   "start_url": "/node-vitepress-patricia/",
@@ -9,11 +9,7 @@
   "display": "standalone",
   "background_color": "#09101b",
   "theme_color": "#0f172a",
-  "categories": [
-    "technology",
-    "business",
-    "productivity"
-  ],
+  "categories": ["technology", "business", "productivity"],
   "icons": [
     {
       "src": "/node-vitepress-patricia/logo-mini.svg",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T02:08:22.384Z",
+  "generated_at": "2026-04-24T20:00:21.143Z",
   "active_profile": "patricia",
   "profiles": [
     {
@@ -46,8 +46,11 @@
           "note": "presenca publica complementar"
         }
       ],
+      "schemaType": "Person",
       "heroMetrics": [],
-      "heroMetricsEn": []
+      "heroMetricsEn": [],
+      "navLinks": [],
+      "pages": []
     },
     {
       "id": "francisco",
@@ -68,13 +71,38 @@
           "note": "perfil profissional publico"
         },
         {
+          "href": "https://mozgbrasil.github.io/node-vitepress-francisco/",
+          "label": "Perfil ao vivo",
+          "note": "superficie publica dedicada do perfil"
+        },
+        {
           "href": "https://github.com/mozgbrasil/node-vitepress-francisco",
           "label": "Repositorio publico",
           "note": "destino publico da superficie editorial"
         }
       ],
-      "heroMetrics": [],
-      "heroMetricsEn": []
+      "schemaType": "Person",
+      "heroMetrics": [
+        { "value": "LinkedIn", "label": "como trilha profissional principal" },
+        {
+          "value": "Perfil ao vivo",
+          "label": "com apresentacao publica dedicada"
+        },
+        {
+          "value": "Repositorio publico",
+          "label": "para auditoria e evolucao editorial"
+        }
+      ],
+      "heroMetricsEn": [
+        { "value": "LinkedIn", "label": "as the main professional trail" },
+        { "value": "Live profile", "label": "with a dedicated public surface" },
+        {
+          "value": "Public repository",
+          "label": "for auditability and editorial evolution"
+        }
+      ],
+      "navLinks": [],
+      "pages": []
     },
     {
       "id": "alice",
@@ -92,13 +120,18 @@
       "referenceLinks": [
         {
           "href": "https://mozg.com.br/",
-          "label": "Mozg",
-          "note": "site institucional principal"
+          "label": "Conhecer Mozg",
+          "note": "site institucional com foco em arquitetura, produto e operacao"
         },
         {
           "href": "https://www.cerebrum.com.br/",
-          "label": "Cerebrum",
-          "note": "site institucional complementar"
+          "label": "Conhecer Cerebrum",
+          "note": "site institucional focado em IA como infraestrutura corporativa"
+        },
+        {
+          "href": "https://mozgbrasil.github.io/node-vitepress-alice/",
+          "label": "Perfil ao vivo",
+          "note": "superficie publica dedicada do perfil executivo"
         },
         {
           "href": "https://github.com/mozgbrasil/node-vitepress-alice",
@@ -106,8 +139,25 @@
           "note": "destino publico da superficie editorial"
         }
       ],
-      "heroMetrics": [],
-      "heroMetricsEn": []
+      "schemaType": "Person",
+      "heroMetrics": [
+        { "value": "Mozg", "label": "com arquitetura e operacao auditaveis" },
+        {
+          "value": "AI-First",
+          "label": "como frente institucional da Cerebrum"
+        },
+        { "value": "CNPJ ativo", "label": "07.361.259/0001-07 na Cerebrum" }
+      ],
+      "heroMetricsEn": [
+        {
+          "value": "Mozg",
+          "label": "with auditable architecture and operations"
+        },
+        { "value": "AI-First", "label": "as Cerebrum institutional front" },
+        { "value": "Active tax id", "label": "07.361.259/0001-07 at Cerebrum" }
+      ],
+      "navLinks": [],
+      "pages": []
     },
     {
       "id": "isabel",
@@ -133,8 +183,11 @@
           "note": "destino publico da superficie editorial"
         }
       ],
+      "schemaType": "Person",
       "heroMetrics": [],
-      "heroMetricsEn": []
+      "heroMetricsEn": [],
+      "navLinks": [],
+      "pages": []
     },
     {
       "id": "marcela",
@@ -160,26 +213,72 @@
           "note": "destino publico da superficie editorial"
         }
       ],
+      "schemaType": "Person",
       "heroMetrics": [],
-      "heroMetricsEn": []
+      "heroMetricsEn": [],
+      "navLinks": [],
+      "pages": []
     },
     {
       "id": "abpcm",
       "slug": "abpcm",
       "label": "ABPCM",
       "title": "ABPCM | Associação Brasileira de Pacientes de Cannabis Medicinal",
-      "headline": "Perfil institucional",
+      "headline": "Portal nacional",
       "publicRepository": "https://github.com/mozgbrasil/node-vitepress-abpcm",
       "primaryUrl": "https://www.abpcm.org.br/",
       "sourceUrls": [
         "https://www.abpcm.org.br/",
+        "https://www.abpcm.org.br/associe-se",
+        "https://www.abpcm.org.br/general-5",
+        "https://www.abpcm.org.br/general-8",
+        "https://www.gov.br/anvisa/pt-br/assuntos/medicamentos/controlados/cannabis",
+        "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2026/anvisa-aprova-por-unanimidade-regras-que-cumprem-decisao-do-stj-para-producao-de-cannabis-medicinal",
+        "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2024/14112024-STJ-valida-cultivo-medicinal-da-cannabis-por-empresas-e-da-prazo-para-regulamentacao.aspx",
+        "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2025/28022025-Negado-pedido-da-Anvisa-por-mais-prazo-para-regulamentar-uso-da-cannabis-com-fins-medicinais.aspx",
+        "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm?authuser=0",
         "https://github.com/mozgbrasil/node-vitepress-abpcm"
       ],
       "referenceLinks": [
         {
           "href": "https://www.abpcm.org.br/",
-          "label": "ABPCM",
-          "note": "site institucional principal"
+          "label": "Site oficial",
+          "note": "presenca institucional principal da associacao"
+        },
+        {
+          "href": "https://www.abpcm.org.br/associe-se",
+          "label": "Associe-se",
+          "note": "cadastro de associados com requisitos e documentacao publicados"
+        },
+        {
+          "href": "https://www.abpcm.org.br/general-8",
+          "label": "Estatuto social",
+          "note": "governanca, codigo de conduta e principios eticos"
+        },
+        {
+          "href": "https://www.abpcm.org.br/general-5",
+          "label": "Politicas do site",
+          "note": "termos, consentimento e regras publicadas pela associacao"
+        },
+        {
+          "href": "https://www.gov.br/anvisa/pt-br/assuntos/medicamentos/controlados/cannabis",
+          "label": "Anvisa - importacao",
+          "note": "rota oficial para importacao excepcional de produtos derivados de cannabis"
+        },
+        {
+          "href": "https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2026/anvisa-aprova-por-unanimidade-regras-que-cumprem-decisao-do-stj-para-producao-de-cannabis-medicinal",
+          "label": "Anvisa 2026",
+          "note": "novas regras para producao, associacoes e atualizacao regulatoria"
+        },
+        {
+          "href": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2024/14112024-STJ-valida-cultivo-medicinal-da-cannabis-por-empresas-e-da-prazo-para-regulamentacao.aspx",
+          "label": "STJ IAC 16",
+          "note": "decisao de 13 de novembro de 2024 sobre cultivo medicinal por pessoas juridicas"
+        },
+        {
+          "href": "https://mozgbrasil.github.io/node-vitepress-abpcm/",
+          "label": "Portal ABPCM",
+          "note": "superficie publica dedicada com legislacao, acesso e guia do paciente"
         },
         {
           "href": "https://github.com/mozgbrasil/node-vitepress-abpcm",
@@ -187,8 +286,97 @@
           "note": "destino publico da superficie editorial"
         }
       ],
-      "heroMetrics": [],
-      "heroMetricsEn": []
+      "schemaType": "Organization",
+      "heroMetrics": [
+        {
+          "value": "Lei 11.343/2006",
+          "label": "base legal para autorizacao medicinal ou cientifica sob fiscalizacao"
+        },
+        {
+          "value": "RDC 660/2022",
+          "label": "rota oficial de importacao excepcional via Anvisa"
+        },
+        {
+          "value": "RDC 1.014/2026",
+          "label": "instrumento especifico para associacoes de pacientes"
+        }
+      ],
+      "heroMetricsEn": [
+        {
+          "value": "Law 11.343/2006",
+          "label": "legal basis for medicinal or scientific authorization under inspection"
+        },
+        {
+          "value": "RDC 660/2022",
+          "label": "official Anvisa path for exceptional import authorization"
+        },
+        {
+          "value": "RDC 1.014/2026",
+          "label": "specific regulatory instrument for patient associations"
+        }
+      ],
+      "navLinks": [
+        { "text": "Início", "textEn": "Home", "link": "/" },
+        {
+          "text": "Legislacao",
+          "textEn": "Legislation",
+          "link": "/legislacao"
+        },
+        { "text": "Acesso", "textEn": "Access", "link": "/acesso" },
+        {
+          "text": "Guia do paciente",
+          "textEn": "Patient guide",
+          "link": "/guia-do-paciente"
+        },
+        {
+          "text": "Associacao",
+          "textEn": "Association",
+          "link": "/associacao"
+        },
+        {
+          "text": "Loja virtual",
+          "textEn": "Virtual store",
+          "link": "/loja-virtual"
+        },
+        { "text": "Contato", "textEn": "Contact", "link": "/contato" }
+      ],
+      "pages": [
+        {
+          "path": "/legislacao",
+          "title": "Legislacao",
+          "description": "Panorama regulatorio da cannabis medicinal no Brasil com links oficiais da Lei 11.343/2006, STJ e Anvisa.",
+          "titleEn": "Legislation",
+          "descriptionEn": "Brazilian medicinal cannabis regulatory overview with official links to Law 11.343/2006, STJ and Anvisa."
+        },
+        {
+          "path": "/acesso",
+          "title": "Acesso",
+          "description": "Rotas praticas de acesso por farmacias, importacao excepcional e associacao de pacientes.",
+          "titleEn": "Access",
+          "descriptionEn": "Practical access routes through pharmacies, exceptional import authorization and patient associations."
+        },
+        {
+          "path": "/guia-do-paciente",
+          "title": "Guia do paciente",
+          "description": "Checklist para pacientes, familiares e prescritores antes de iniciar o atendimento com cannabis medicinal.",
+          "titleEn": "Patient guide",
+          "descriptionEn": "Checklist for patients, families and prescribers before starting a medicinal cannabis care journey."
+        },
+        {
+          "path": "/associacao",
+          "title": "Associacao",
+          "description": "Missao, governanca, estatuto, servicos e canais publicos da ABPCM.",
+          "titleEn": "Association",
+          "descriptionEn": "ABPCM mission, governance, bylaws, services and public channels."
+        },
+        {
+          "path": "/loja-virtual",
+          "title": "Loja virtual",
+          "description": "Ponte publica para a futura integracao Magento e para o fluxo atual da associacao.",
+          "titleEn": "Virtual store",
+          "descriptionEn": "Public bridge to the future Magento integration and the current association flow."
+        }
+      ]
     },
     {
       "id": "marcelo",
@@ -205,8 +393,8 @@
       "referenceLinks": [
         {
           "href": "https://www.cerebrum.com.br/",
-          "label": "Cerebrum",
-          "note": "site institucional principal"
+          "label": "Conhecer Cerebrum",
+          "note": "site institucional com tese de IA como infraestrutura corporativa"
         },
         {
           "href": "https://www.linkedin.com/in/marcerebrum/",
@@ -214,39 +402,38 @@
           "note": "perfil profissional publico"
         },
         {
+          "href": "https://mozgbrasil.github.io/node-vitepress-marcelo/",
+          "label": "Perfil ao vivo",
+          "note": "superficie publica dedicada do perfil"
+        },
+        {
           "href": "https://github.com/mozgbrasil/node-vitepress-marcelo",
           "label": "Repositorio publico",
           "note": "destino publico da stack editorial"
         }
       ],
+      "schemaType": "Person",
       "heroMetrics": [
-        {
-          "value": "Perfil vivo",
-          "label": "com narrativa institucional clara"
-        },
-        { "value": "Base publica", "label": "pronta para evolucao editorial" },
-        { "value": "Repositorio publico", "label": "como superficie auditavel" }
+        { "value": "AI-First", "label": "como tese central da Cerebrum" },
+        { "value": "10x volume", "label": "com escalabilidade inteligente" },
+        { "value": "CNPJ ativo", "label": "07.361.259/0001-07" }
       ],
       "heroMetricsEn": [
-        {
-          "value": "Live profile",
-          "label": "with a clear institutional narrative"
-        },
-        {
-          "value": "Public foundation",
-          "label": "ready for editorial expansion"
-        },
-        { "value": "Public repository", "label": "as an auditable surface" }
-      ]
+        { "value": "AI-First", "label": "as the central Cerebrum thesis" },
+        { "value": "10x volume", "label": "through intelligent scalability" },
+        { "value": "Active tax id", "label": "07.361.259/0001-07" }
+      ],
+      "navLinks": [],
+      "pages": []
     },
     {
       "id": "patricia",
       "slug": "patricia",
       "label": "Patricia",
-      "title": "Patricia | Perfil profissional",
+      "title": "Patricia Amorim | Perfil profissional",
       "headline": "Perfil profissional",
       "publicRepository": "https://github.com/mozgbrasil/node-vitepress-patricia",
-      "primaryUrl": "https://github.com/mozgbrasil/node-vitepress-patricia",
+      "primaryUrl": "https://www.linkedin.com/in/patriciaamorim/",
       "sourceUrls": ["https://www.linkedin.com/in/patriciaamorim/"],
       "referenceLinks": [
         {
@@ -255,36 +442,41 @@
           "note": "perfil profissional publico"
         },
         {
+          "href": "https://mozgbrasil.github.io/node-vitepress-patricia/",
+          "label": "Perfil ao vivo",
+          "note": "superficie publica dedicada do perfil"
+        },
+        {
           "href": "https://github.com/mozgbrasil/node-vitepress-patricia",
           "label": "Repositorio publico",
           "note": "destino publico da superficie editorial"
         }
       ],
+      "schemaType": "Person",
       "heroMetrics": [
-        {
-          "value": "Perfil vivo",
-          "label": "com referencias publicas organizadas"
-        },
         { "value": "LinkedIn", "label": "como trilha profissional principal" },
+        {
+          "value": "Perfil ao vivo",
+          "label": "com apresentacao publica dedicada"
+        },
         { "value": "Repositorio publico", "label": "para extensao editorial" }
       ],
       "heroMetricsEn": [
-        {
-          "value": "Live profile",
-          "label": "with organized public references"
-        },
         { "value": "LinkedIn", "label": "as the main professional trail" },
+        { "value": "Live profile", "label": "with a dedicated public surface" },
         { "value": "Public repository", "label": "for editorial expansion" }
-      ]
+      ],
+      "navLinks": [],
+      "pages": []
     },
     {
       "id": "danielle",
       "slug": "danielle",
       "label": "Danielle",
-      "title": "Danielle | Perfil profissional",
+      "title": "Danielle Amorim | Perfil profissional",
       "headline": "Perfil profissional",
       "publicRepository": "https://github.com/mozgbrasil/node-vitepress-danielle",
-      "primaryUrl": "https://github.com/mozgbrasil/node-vitepress-danielle",
+      "primaryUrl": "https://www.linkedin.com/in/danielle-amorim-31766435/",
       "sourceUrls": ["https://www.linkedin.com/in/danielle-amorim-31766435/"],
       "referenceLinks": [
         {
@@ -293,30 +485,35 @@
           "note": "perfil profissional publico"
         },
         {
+          "href": "https://mozgbrasil.github.io/node-vitepress-danielle/",
+          "label": "Perfil ao vivo",
+          "note": "superficie publica dedicada do perfil"
+        },
+        {
           "href": "https://github.com/mozgbrasil/node-vitepress-danielle",
           "label": "Repositorio publico",
           "note": "destino publico da superficie editorial"
         }
       ],
+      "schemaType": "Person",
       "heroMetrics": [
-        {
-          "value": "Perfil vivo",
-          "label": "com referencias profissionais claras"
-        },
         {
           "value": "LinkedIn",
           "label": "como superficie profissional central"
         },
+        {
+          "value": "Perfil ao vivo",
+          "label": "com apresentacao publica dedicada"
+        },
         { "value": "Repositorio publico", "label": "para expansao editorial" }
       ],
       "heroMetricsEn": [
-        {
-          "value": "Live profile",
-          "label": "with clear professional references"
-        },
         { "value": "LinkedIn", "label": "as the central professional surface" },
+        { "value": "Live profile", "label": "with a dedicated public surface" },
         { "value": "Public repository", "label": "for editorial expansion" }
-      ]
+      ],
+      "navLinks": [],
+      "pages": []
     },
     {
       "id": "edificio-campanella",
@@ -325,15 +522,27 @@
       "title": "Edificio Campanella | Presenca digital",
       "headline": "Perfil institucional",
       "publicRepository": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
-      "primaryUrl": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
+      "primaryUrl": "https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP",
       "sourceUrls": [
-        "https://www.google.com/search?q=edificio+campanella&oq=edificio+campanella"
+        "https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP",
+        "https://www.econodata.com.br/consulta-empresa/05156509000141-edificio-campanella",
+        "https://loft.com.br/condominio/edificio-campanella-itaquera-sao-paulo-sp/1u70nk"
       ],
       "referenceLinks": [
         {
-          "href": "https://www.google.com/search?q=edificio+campanella&oq=edificio+campanella",
-          "label": "Referencia publica",
-          "note": "busca publica do Edificio Campanella"
+          "href": "https://www.google.com/maps/search/?api=1&query=Edificio+Campanella+Avenida+Campanella+1297+Itaquera+Sao+Paulo+SP",
+          "label": "Google Maps",
+          "note": "localizacao publica principal do condominio"
+        },
+        {
+          "href": "https://www.econodata.com.br/consulta-empresa/05156509000141-edificio-campanella",
+          "label": "Consulta publica CNPJ",
+          "note": "ficha cadastral publica do condominio"
+        },
+        {
+          "href": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/",
+          "label": "Perfil ao vivo",
+          "note": "superficie publica dedicada do perfil"
         },
         {
           "href": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
@@ -341,19 +550,25 @@
           "note": "destino publico da superficie editorial"
         }
       ],
+      "schemaType": "Organization",
       "heroMetrics": [
         {
-          "value": "Presenca publica",
-          "label": "organizada para descoberta rapida"
+          "value": "Desde 2002",
+          "label": "com base publica e endereco verificados"
         },
-        { "value": "Base institucional", "label": "pronta para novos blocos" },
-        { "value": "Repositorio publico", "label": "como superficie auditavel" }
+        { "value": "CNPJ ativo", "label": "05.156.509/0001-41" },
+        { "value": "Itaquera", "label": "Avenida Campanella, 1297" }
       ],
       "heroMetricsEn": [
-        { "value": "Public presence", "label": "organized for fast discovery" },
-        { "value": "Institutional base", "label": "ready for new sections" },
-        { "value": "Public repository", "label": "as an auditable surface" }
-      ]
+        {
+          "value": "Since 2002",
+          "label": "with verified public references and address"
+        },
+        { "value": "Active tax id", "label": "05.156.509/0001-41" },
+        { "value": "Itaquera", "label": "Avenida Campanella, 1297" }
+      ],
+      "navLinks": [],
+      "pages": []
     }
   ]
 }

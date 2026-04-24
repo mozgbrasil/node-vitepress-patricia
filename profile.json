@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-04-21T00:39:39.942Z",
+  "generated_at": "2026-04-24T20:00:20.672Z",
   "profile_id": "patricia",
   "label": "Patricia",
-  "title": "Patricia | Perfil profissional",
+  "title": "Patricia Amorim | Perfil profissional",
   "headline": "Perfil profissional",
-  "primary_url": "https://github.com/mozgbrasil/node-vitepress-patricia",
+  "primary_url": "https://www.linkedin.com/in/patriciaamorim/",
   "public_repository": "https://github.com/mozgbrasil/node-vitepress-patricia",
-  "site_url": "https://github.com/mozgbrasil/node-vitepress-patricia",
+  "site_url": "https://mozgbrasil.github.io/node-vitepress-patricia/",
   "source_urls": [
     "https://www.linkedin.com/in/patriciaamorim/"
   ],
@@ -15,6 +15,11 @@
       "href": "https://www.linkedin.com/in/patriciaamorim/",
       "label": "LinkedIn",
       "note": "perfil profissional publico"
+    },
+    {
+      "href": "https://mozgbrasil.github.io/node-vitepress-patricia/",
+      "label": "Perfil ao vivo",
+      "note": "superficie publica dedicada do perfil"
     },
     {
       "href": "https://github.com/mozgbrasil/node-vitepress-patricia",

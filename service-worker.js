@@ -1,28 +1,28 @@
-const VERSION = "mozg-site-patricia-v10";
-const HOME_PATH = "/node-vitepress-patricia/";
+const VERSION = 'mozg-site-patricia-v10';
+const HOME_PATH = '/node-vitepress-patricia/';
 const APP_SHELL = [
-  "/node-vitepress-patricia/",
-  "/node-vitepress-patricia/manifest.json",
-  "/node-vitepress-patricia/logo-mini.svg",
-  "/node-vitepress-patricia/logo-mini.png",
-  "/node-vitepress-patricia/og.jpg",
-  "/node-vitepress-patricia/data/site-catalog.json",
-  "/node-vitepress-patricia/data/site-audit.json",
-  "/node-vitepress-patricia/data/site-discovery.json",
-  "/node-vitepress-patricia/data/site-portfolio.json",
-  "/node-vitepress-patricia/data/site-projects.json",
-  "/node-vitepress-patricia/data/site-capabilities.json",
-  "/node-vitepress-patricia/data/site-stacks.json",
-  "/node-vitepress-patricia/data/site-operations.json",
-  "/node-vitepress-patricia/data/site-journeys.json",
-  "/node-vitepress-patricia/data/site-trust.json",
-  "/node-vitepress-patricia/llms.txt",
-  "/node-vitepress-patricia/robots.txt",
-  "/node-vitepress-patricia/contato",
-  "/node-vitepress-patricia/presenca",
-  "/node-vitepress-patricia/en/",
-  "/node-vitepress-patricia/en/contact",
-  "/node-vitepress-patricia/en/presence"
+  '/node-vitepress-patricia/',
+  '/node-vitepress-patricia/manifest.json',
+  '/node-vitepress-patricia/logo-mini.svg',
+  '/node-vitepress-patricia/logo-mini.png',
+  '/node-vitepress-patricia/og.jpg',
+  '/node-vitepress-patricia/data/site-catalog.json',
+  '/node-vitepress-patricia/data/site-audit.json',
+  '/node-vitepress-patricia/data/site-discovery.json',
+  '/node-vitepress-patricia/data/site-portfolio.json',
+  '/node-vitepress-patricia/data/site-projects.json',
+  '/node-vitepress-patricia/data/site-capabilities.json',
+  '/node-vitepress-patricia/data/site-stacks.json',
+  '/node-vitepress-patricia/data/site-operations.json',
+  '/node-vitepress-patricia/data/site-journeys.json',
+  '/node-vitepress-patricia/data/site-trust.json',
+  '/node-vitepress-patricia/llms.txt',
+  '/node-vitepress-patricia/robots.txt',
+  '/node-vitepress-patricia/contato',
+  '/node-vitepress-patricia/presenca',
+  '/node-vitepress-patricia/en/',
+  '/node-vitepress-patricia/en/contact',
+  '/node-vitepress-patricia/en/presence',
 ];
 
 self.addEventListener('install', (event) => {

@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-04-21T02:08:22.384Z",
+  "generated_at": "2026-04-24T20:00:21.143Z",
   "filters_applied": {},
-  "total_items": 34,
-  "total_available_items": 34,
+  "total_items": 39,
+  "total_available_items": 39,
   "kinds": [
     { "label": "api", "count": 21 },
-    { "label": "presence", "count": 4 },
+    { "label": "presence", "count": 6 },
+    { "label": "contact", "count": 3 },
     { "label": "page", "count": 3 },
-    { "label": "contact", "count": 2 },
-    { "label": "surface", "count": 2 },
-    { "label": "trust", "count": 2 }
+    { "label": "surface", "count": 3 },
+    { "label": "trust", "count": 3 }
   ],
   "items": [
     {
@@ -211,6 +211,15 @@
       "meta": "Contato principal"
     },
     {
+      "id": "contact-perfil-ao-vivo",
+      "kind": "contact",
+      "title": "Perfil ao vivo",
+      "description": "superficie publica dedicada",
+      "href": "https://mozgbrasil.github.io/node-vitepress-patricia/",
+      "tags": ["contato", "canal", "perfil-ao-vivo"],
+      "meta": "Contato principal"
+    },
+    {
       "id": "contact-repositorio-publico",
       "kind": "contact",
       "title": "Repositorio publico",
@@ -223,16 +232,16 @@
       "id": "page-contato",
       "kind": "page",
       "title": "Contato",
-      "description": "Canais públicos e pontos principais de contato de Patricia.",
+      "description": "Canais públicos e pontos principais de contato de Patricia Amorim.",
       "href": "/contato",
       "tags": ["pagina", "site", "/contato"],
       "meta": "Navegacao principal"
     },
     {
-      "id": "page-patricia-perfil-profissional",
+      "id": "page-patricia-amorim-perfil-profissional",
       "kind": "page",
-      "title": "Patricia | Perfil profissional",
-      "description": "Perfil editorial de Patricia, com referências públicas organizadas, base pronta para expansão e distribuição auditável.",
+      "title": "Patricia Amorim | Perfil profissional",
+      "description": "Perfil editorial de Patricia Amorim com LinkedIn, perfil ao vivo e repositório público organizados como superfícies complementares.",
       "href": "/",
       "tags": ["pagina", "site", "/"],
       "meta": "Navegacao principal"
@@ -241,7 +250,7 @@
       "id": "page-perfis",
       "kind": "page",
       "title": "Perfis",
-      "description": "Superfícies públicas e referências principais de Patricia.",
+      "description": "Superfícies públicas e referências principais de Patricia Amorim.",
       "href": "/presenca",
       "tags": ["pagina", "site", "/presenca"],
       "meta": "Navegacao principal"
@@ -253,6 +262,15 @@
       "description": "Perfil profissional no grupo Base publica.",
       "href": "https://www.linkedin.com/in/patriciaamorim/",
       "tags": ["personal", "presenca", "base-publica", "linkedin"],
+      "meta": "@patricia"
+    },
+    {
+      "id": "presence-patricia-base-publica-perfil-ao-vivo",
+      "kind": "presence",
+      "title": "patricia · Base publica · Perfil ao vivo",
+      "description": "Perfil profissional no grupo Base publica.",
+      "href": "https://mozgbrasil.github.io/node-vitepress-patricia/",
+      "tags": ["personal", "presenca", "base-publica", "perfil-ao-vivo"],
       "meta": "@patricia"
     },
     {
@@ -279,6 +297,15 @@
       "meta": "@patricia"
     },
     {
+      "id": "presence-patricia-perfil-ao-vivo",
+      "kind": "presence",
+      "title": "patricia · Perfil ao vivo",
+      "description": "superficie publica dedicada",
+      "href": "https://mozgbrasil.github.io/node-vitepress-patricia/",
+      "tags": ["personal", "presenca", "perfil-ao-vivo"],
+      "meta": "@patricia"
+    },
+    {
       "id": "presence-patricia-repositorio-publico",
       "kind": "presence",
       "title": "patricia · Repositorio publico",
@@ -286,6 +313,15 @@
       "href": "https://github.com/mozgbrasil/node-vitepress-patricia",
       "tags": ["personal", "presenca", "repositorio-publico"],
       "meta": "@patricia"
+    },
+    {
+      "id": "surface-perfil-ao-vivo",
+      "kind": "surface",
+      "title": "Perfil ao vivo",
+      "description": "Superficie publica dedicada para consolidar contexto, referencias e continuidade editorial.",
+      "href": "https://mozgbrasil.github.io/node-vitepress-patricia/",
+      "tags": ["superficie", "publico", "distribuicao"],
+      "meta": "Canal publico"
     },
     {
       "id": "surface-perfil-profissional",
@@ -304,6 +340,15 @@
       "href": "https://github.com/mozgbrasil/node-vitepress-patricia",
       "tags": ["superficie", "publico", "distribuicao"],
       "meta": "Canal publico"
+    },
+    {
+      "id": "trust-perfil-publico-dedicado",
+      "kind": "trust",
+      "title": "Perfil publico dedicado",
+      "description": "Camada propria para consolidar narrativa, leitura rapida e continuidade editorial.",
+      "href": "https://mozgbrasil.github.io/node-vitepress-patricia",
+      "tags": ["confianca", "institucional", "perfil-publico-dedicado"],
+      "meta": "GitHub Pages"
     },
     {
       "id": "trust-perfil-publico-principal",

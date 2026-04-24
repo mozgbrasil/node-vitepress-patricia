@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://github.com/mozgbrasil/node-vitepress-patricia/sitemap.xml
+Sitemap: https://mozgbrasil.github.io/node-vitepress-patricia//sitemap.xml

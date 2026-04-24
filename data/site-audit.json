@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T02:08:22.384Z",
-  "company": "Patricia",
-  "site_url": "https://github.com/mozgbrasil/node-vitepress-patricia",
+  "generated_at": "2026-04-24T20:00:21.143Z",
+  "company": "Patricia Amorim",
+  "site_url": "https://mozgbrasil.github.io/node-vitepress-patricia/",
   "counts": {
     "pages": 3,
     "api_routes": 21,
-    "discovery_items": 34,
+    "discovery_items": 39,
     "portfolio_entries": 0,
     "project_dossiers": 0,
     "category_profiles": 0,
@@ -14,14 +14,14 @@
     "stack_technologies": 0,
     "operation_dossiers": 0,
     "public_journeys": 0,
-    "trust_signals": 2,
+    "trust_signals": 3,
     "specialties": 0,
     "projects": 0,
-    "surfaces": 2,
+    "surfaces": 3,
     "presence_profiles": 1,
     "presence_groups": 2,
-    "presence_links": 4,
-    "contact_links": 2
+    "presence_links": 6,
+    "contact_links": 3
   },
   "pages": ["/", "/contato", "/presenca"],
   "api_paths": [

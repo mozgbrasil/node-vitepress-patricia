@@ -1,19 +1,19 @@
-# Patricia | Perfil profissional
+# Patricia Amorim | Perfil profissional
 
-- Company: Patricia
-- Author: Patricia
+- Company: Patricia Amorim
+- Author: Patricia Amorim
 - Role: Perfil profissional
 - Location: Brasil
-- Site: https://github.com/mozgbrasil/node-vitepress-patricia
-- Generated at: 2026-04-21T02:08:22.384Z
+- Site: https://mozgbrasil.github.io/node-vitepress-patricia/
+- Generated at: 2026-04-24T20:00:21.143Z
 
 ## Summary
-Perfil editorial de Patricia, com referências públicas organizadas, base pronta para expansão e distribuição auditável.
+Perfil editorial de Patricia Amorim com LinkedIn, perfil ao vivo e repositório público organizados como superfícies complementares.
 
 ## Pages
-- Patricia | Perfil profissional: https://github.com/mozgbrasil/node-vitepress-patricia/
-- Contato: https://github.com/mozgbrasil/node-vitepress-patricia/contato
-- Perfis: https://github.com/mozgbrasil/node-vitepress-patricia/presenca
+- Patricia Amorim | Perfil profissional: https://mozgbrasil.github.io/node-vitepress-patricia//
+- Contato: https://mozgbrasil.github.io/node-vitepress-patricia//contato
+- Perfis: https://mozgbrasil.github.io/node-vitepress-patricia//presenca
 
 ## API
 - GET /api/health: Status operacional e metadados de request.
@@ -64,23 +64,24 @@ Perfil editorial de Patricia, com referências públicas organizadas, base pront
 
 ## Trust Signals
 - Perfil publico principal: Camada publica central para contexto profissional e relacionamento. [LinkedIn]
+- Perfil publico dedicado: Camada propria para consolidar narrativa, leitura rapida e continuidade editorial. [GitHub Pages]
 - Repositorio publico do perfil: Base versionada para publicacao, manutencao e auditoria do conteudo. [GitHub]
 
 ## Static Exports
-- https://github.com/mozgbrasil/node-vitepress-patricia/data/site-catalog.json
-- https://github.com/mozgbrasil/node-vitepress-patricia/data/site-audit.json
-- https://github.com/mozgbrasil/node-vitepress-patricia/data/site-discovery.json
-- https://github.com/mozgbrasil/node-vitepress-patricia/data/site-portfolio.json
-- https://github.com/mozgbrasil/node-vitepress-patricia/data/site-categories.json
-- https://github.com/mozgbrasil/node-vitepress-patricia/data/site-capabilities.json
-- https://github.com/mozgbrasil/node-vitepress-patricia/data/site-projects.json
-- https://github.com/mozgbrasil/node-vitepress-patricia/data/site-stacks.json
-- https://github.com/mozgbrasil/node-vitepress-patricia/data/site-operations.json
-- https://github.com/mozgbrasil/node-vitepress-patricia/data/site-journeys.json
-- https://github.com/mozgbrasil/node-vitepress-patricia/data/site-trust.json
-- https://github.com/mozgbrasil/node-vitepress-patricia/data/site-profiles.json
-- https://github.com/mozgbrasil/node-vitepress-patricia/llms.txt
-- https://github.com/mozgbrasil/node-vitepress-patricia/robots.txt
+- https://mozgbrasil.github.io/node-vitepress-patricia//data/site-catalog.json
+- https://mozgbrasil.github.io/node-vitepress-patricia//data/site-audit.json
+- https://mozgbrasil.github.io/node-vitepress-patricia//data/site-discovery.json
+- https://mozgbrasil.github.io/node-vitepress-patricia//data/site-portfolio.json
+- https://mozgbrasil.github.io/node-vitepress-patricia//data/site-categories.json
+- https://mozgbrasil.github.io/node-vitepress-patricia//data/site-capabilities.json
+- https://mozgbrasil.github.io/node-vitepress-patricia//data/site-projects.json
+- https://mozgbrasil.github.io/node-vitepress-patricia//data/site-stacks.json
+- https://mozgbrasil.github.io/node-vitepress-patricia//data/site-operations.json
+- https://mozgbrasil.github.io/node-vitepress-patricia//data/site-journeys.json
+- https://mozgbrasil.github.io/node-vitepress-patricia//data/site-trust.json
+- https://mozgbrasil.github.io/node-vitepress-patricia//data/site-profiles.json
+- https://mozgbrasil.github.io/node-vitepress-patricia//llms.txt
+- https://mozgbrasil.github.io/node-vitepress-patricia//robots.txt
 
 ## Quality Gates
 
