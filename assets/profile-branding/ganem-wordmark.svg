@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Familia Ganem</title>
+  <desc id="desc">Identidade institucional da Familia Ganem com referencia a causa animal.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f5f0e6" />
+      <stop offset="100%" stop-color="#dfe8d7" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="36" fill="url(#bg)" />
+  <rect x="64" y="64" width="1072" height="502" rx="30" fill="#fffdf8" stroke="#1f3b2d" stroke-width="4" />
+  <circle cx="190" cy="182" r="54" fill="#1f3b2d" />
+  <circle cx="165" cy="148" r="16" fill="#1f3b2d" />
+  <circle cx="214" cy="148" r="16" fill="#1f3b2d" />
+  <circle cx="142" cy="181" r="14" fill="#1f3b2d" />
+  <circle cx="238" cy="181" r="14" fill="#1f3b2d" />
+  <text x="282" y="170" fill="#1f3b2d" font-size="42" font-family="Manrope, 'Plus Jakarta Sans', sans-serif" font-weight="700" letter-spacing="4">FAMILIA</text>
+  <text x="278" y="260" fill="#8f6a2e" font-size="96" font-family="Manrope, 'Plus Jakarta Sans', sans-serif" font-weight="800" letter-spacing="6">GANEM</text>
+  <text x="94" y="374" fill="#1f3b2d" font-size="34" font-family="Manrope, 'Plus Jakarta Sans', sans-serif" font-weight="600">Presenca publica institucional</text>
+  <text x="94" y="430" fill="#42574c" font-size="26" font-family="Manrope, 'Plus Jakarta Sans', sans-serif">Simone Ganem | Clarice Ganem | Bruno Ganem | Lucas Ganem</text>
+  <text x="94" y="484" fill="#42574c" font-size="26" font-family="Manrope, 'Plus Jakarta Sans', sans-serif">Causa animal | mandatos publicos | leitura simples e auditavel</text>
+</svg>

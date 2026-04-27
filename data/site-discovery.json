@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-04-24T20:00:21.143Z",
+  "generated_at": "2026-04-27T07:55:55.492Z",
   "filters_applied": {},
-  "total_items": 39,
-  "total_available_items": 39,
+  "total_items": 34,
+  "total_available_items": 34,
   "kinds": [
     { "label": "api", "count": 21 },
-    { "label": "presence", "count": 6 },
-    { "label": "contact", "count": 3 },
+    { "label": "presence", "count": 4 },
     { "label": "page", "count": 3 },
-    { "label": "surface", "count": 3 },
-    { "label": "trust", "count": 3 }
+    { "label": "contact", "count": 2 },
+    { "label": "surface", "count": 2 },
+    { "label": "trust", "count": 2 }
   ],
   "items": [
     {
@@ -220,15 +220,6 @@
       "meta": "Contato principal"
     },
     {
-      "id": "contact-repositorio-publico",
-      "kind": "contact",
-      "title": "Repositorio publico",
-      "description": "destino de publicacao do perfil",
-      "href": "https://github.com/mozgbrasil/node-vitepress-patricia",
-      "tags": ["contato", "canal", "repositorio-publico"],
-      "meta": "Contato principal"
-    },
-    {
       "id": "page-contato",
       "kind": "page",
       "title": "Contato",
@@ -241,7 +232,7 @@
       "id": "page-patricia-amorim-perfil-profissional",
       "kind": "page",
       "title": "Patricia Amorim | Perfil profissional",
-      "description": "Perfil editorial de Patricia Amorim com LinkedIn, perfil ao vivo e repositório público organizados como superfícies complementares.",
+      "description": "Perfil profissional de Patricia Amorim com LinkedIn e presença pública dedicada para leitura simples, direta e confiável.",
       "href": "/",
       "tags": ["pagina", "site", "/"],
       "meta": "Navegacao principal"
@@ -274,20 +265,6 @@
       "meta": "@patricia"
     },
     {
-      "id": "presence-patricia-distribuicao-editorial-repositorio-publico",
-      "kind": "presence",
-      "title": "patricia · Distribuicao editorial · Repositorio publico",
-      "description": "Perfil profissional no grupo Distribuicao editorial.",
-      "href": "https://github.com/mozgbrasil/node-vitepress-patricia",
-      "tags": [
-        "personal",
-        "presenca",
-        "distribuicao-editorial",
-        "repositorio-publico"
-      ],
-      "meta": "@patricia"
-    },
-    {
       "id": "presence-patricia-linkedin",
       "kind": "presence",
       "title": "patricia · LinkedIn",
@@ -303,15 +280,6 @@
       "description": "superficie publica dedicada",
       "href": "https://mozgbrasil.github.io/node-vitepress-patricia/",
       "tags": ["personal", "presenca", "perfil-ao-vivo"],
-      "meta": "@patricia"
-    },
-    {
-      "id": "presence-patricia-repositorio-publico",
-      "kind": "presence",
-      "title": "patricia · Repositorio publico",
-      "description": "publicacao do perfil",
-      "href": "https://github.com/mozgbrasil/node-vitepress-patricia",
-      "tags": ["personal", "presenca", "repositorio-publico"],
       "meta": "@patricia"
     },
     {
@@ -333,15 +301,6 @@
       "meta": "Canal publico"
     },
     {
-      "id": "surface-repositorio-publico",
-      "kind": "surface",
-      "title": "Repositorio publico",
-      "description": "Destino publico da stack editorial do perfil, pronto para evolucao.",
-      "href": "https://github.com/mozgbrasil/node-vitepress-patricia",
-      "tags": ["superficie", "publico", "distribuicao"],
-      "meta": "Canal publico"
-    },
-    {
       "id": "trust-perfil-publico-dedicado",
       "kind": "trust",
       "title": "Perfil publico dedicado",
@@ -358,15 +317,6 @@
       "href": "https://www.linkedin.com/in/patriciaamorim",
       "tags": ["confianca", "institucional", "perfil-publico-principal"],
       "meta": "LinkedIn"
-    },
-    {
-      "id": "trust-repositorio-publico-do-perfil",
-      "kind": "trust",
-      "title": "Repositorio publico do perfil",
-      "description": "Base versionada para publicacao, manutencao e auditoria do conteudo.",
-      "href": "https://github.com/mozgbrasil/node-vitepress-patricia",
-      "tags": ["confianca", "institucional", "repositorio-publico-do-perfil"],
-      "meta": "GitHub"
     }
   ]
 }

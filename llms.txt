@@ -5,10 +5,10 @@
 - Role: Perfil profissional
 - Location: Brasil
 - Site: https://mozgbrasil.github.io/node-vitepress-patricia/
-- Generated at: 2026-04-24T20:00:21.143Z
+- Generated at: 2026-04-27T07:55:55.492Z
 
 ## Summary
-Perfil editorial de Patricia Amorim com LinkedIn, perfil ao vivo e repositório público organizados como superfícies complementares.
+Perfil profissional de Patricia Amorim com LinkedIn e presença pública dedicada para leitura simples, direta e confiável.
 
 ## Pages
 - Patricia Amorim | Perfil profissional: https://mozgbrasil.github.io/node-vitepress-patricia//
@@ -65,7 +65,6 @@ Perfil editorial de Patricia Amorim com LinkedIn, perfil ao vivo e repositório 
 ## Trust Signals
 - Perfil publico principal: Camada publica central para contexto profissional e relacionamento. [LinkedIn]
 - Perfil publico dedicado: Camada propria para consolidar narrativa, leitura rapida e continuidade editorial. [GitHub Pages]
-- Repositorio publico do perfil: Base versionada para publicacao, manutencao e auditoria do conteudo. [GitHub]
 
 ## Static Exports
 - https://mozgbrasil.github.io/node-vitepress-patricia//data/site-catalog.json

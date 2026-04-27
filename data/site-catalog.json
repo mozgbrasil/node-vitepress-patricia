@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-04-24T20:00:21.143Z",
+  "generated_at": "2026-04-27T07:55:55.492Z",
   "active_profile": "patricia",
   "catalog": {
     "site": {
       "title": "Patricia Amorim | Perfil profissional",
-      "description": "Perfil editorial de Patricia Amorim com LinkedIn, perfil ao vivo e repositório público organizados como superfícies complementares.",
+      "description": "Perfil profissional de Patricia Amorim com LinkedIn e presença pública dedicada para leitura simples, direta e confiável.",
       "author": "Patricia Amorim",
       "company": "Patricia Amorim",
       "role": "Perfil profissional",
       "location": "Brasil",
       "siteUrl": "https://mozgbrasil.github.io/node-vitepress-patricia/",
-      "socialImage": "https://mozgbrasil.github.io/node-vitepress-patricia/og.jpg",
+      "socialImage": "https://mozgbrasil.github.io/node-vitepress-patricia/assets/profile-branding/patricia.jpeg",
       "email": "",
       "phone": "",
       "whatsapp": "",
       "linkedIn": "https://www.linkedin.com/in/patriciaamorim/",
-      "github": "https://github.com/mozgbrasil/node-vitepress-patricia",
+      "github": "",
       "bluesky": "",
       "githubSponsors": "",
       "googleDevelopers": "",
       "openProfile": "",
       "curriculum": "https://www.linkedin.com/in/patriciaamorim/",
       "githubPages": "",
-      "profileImage": "/logo-mini.svg",
-      "institutionLogo": "",
+      "profileImage": "/assets/profile-branding/patricia.jpeg",
+      "institutionLogo": "/assets/profile-branding/patricia.jpeg",
       "mapsUrl": "",
       "mapsEmbedUrl": "",
       "address": {
@@ -41,8 +41,8 @@
         "presenca publica",
         "linkedin",
         "perfil ao vivo",
-        "GitHub Pages",
-        "repositorio publico"
+        "gestao de produtos",
+        "presenca publica"
       ],
       "structuredData": {
         "@context": "https://schema.org",
@@ -51,20 +51,20 @@
         "url": "https://mozgbrasil.github.io/node-vitepress-patricia/",
         "jobTitle": "Perfil profissional",
         "worksFor": { "@type": "Organization", "name": "Patricia Amorim" },
-        "description": "Perfil editorial de Patricia Amorim com LinkedIn, perfil ao vivo e repositório público organizados como superfícies complementares.",
+        "description": "Perfil profissional de Patricia Amorim com LinkedIn e presença pública dedicada para leitura simples, direta e confiável.",
         "knowsAbout": [
           "Patricia Amorim",
           "perfil profissional",
           "presenca publica",
           "linkedin",
           "perfil ao vivo",
-          "GitHub Pages",
-          "repositorio publico"
+          "gestao de produtos",
+          "presenca publica"
         ],
         "sameAs": [
-          "https://github.com/mozgbrasil/node-vitepress-patricia",
           "https://www.linkedin.com/in/patriciaamorim/",
-          "https://mozgbrasil.github.io/node-vitepress-patricia/"
+          "https://mozgbrasil.github.io/node-vitepress-patricia/",
+          "https://github.com/mozgbrasil/node-vitepress-patricia"
         ]
       },
       "pixOptions": [],
@@ -75,26 +75,19 @@
           "website": "https://www.linkedin.com/in/patriciaamorim/",
           "role": "perfil profissional publico",
           "note": "Referencia profissional primaria do perfil."
-        },
-        {
-          "name": "node-vitepress-patricia",
-          "cnpj": "",
-          "website": "https://github.com/mozgbrasil/node-vitepress-patricia",
-          "role": "repositorio publico de distribuicao",
-          "note": "Base editorial multi-perfil pronta para evolucao."
         }
       ]
     },
     "hero": {
       "name": "Patricia Amorim",
       "text": "Perfil profissional com LinkedIn, perfil ao vivo e base auditavel",
-      "tagline": "Superficie publica organizada para apresentar contexto, referencias e sinais de confianca com leitura simples e continuidade editorial."
+      "tagline": "Superficie publica organizada para apresentar contexto profissional, referencias e sinais de confianca com leitura simples."
     },
     "pages": [
       {
         "path": "/",
         "title": "Patricia Amorim | Perfil profissional",
-        "description": "Perfil editorial de Patricia Amorim com LinkedIn, perfil ao vivo e repositório público organizados como superfícies complementares."
+        "description": "Perfil profissional de Patricia Amorim com LinkedIn e presença pública dedicada para leitura simples, direta e confiável."
       },
       {
         "path": "/contato",
@@ -117,7 +110,7 @@
       {
         "year": "Atual",
         "title": "Base editorial unificada",
-        "description": "LinkedIn e repositorio publico trabalham como superfícies coerentes do mesmo perfil."
+        "description": "LinkedIn e perfil ao vivo trabalham como superfícies coerentes do mesmo perfil."
       },
       {
         "year": "Atual",
@@ -127,7 +120,7 @@
     ],
     "experienceHighlights": [
       "Perfil profissional organizado para leitura rapida e distribuicao publica dedicada.",
-      "LinkedIn, perfil ao vivo e repositorio publico conectados como superfícies principais.",
+      "LinkedIn e perfil ao vivo conectados como superfícies principais.",
       "Base editorial pronta para crescer com novos blocos, sinais publicos e SEO leve."
     ],
     "flagshipProjects": [],
@@ -148,11 +141,6 @@
         "title": "Perfil ao vivo",
         "description": "Superficie publica dedicada para consolidar contexto, referencias e continuidade editorial.",
         "href": "https://mozgbrasil.github.io/node-vitepress-patricia/"
-      },
-      {
-        "title": "Repositorio publico",
-        "description": "Destino publico da stack editorial do perfil, pronto para evolucao.",
-        "href": "https://github.com/mozgbrasil/node-vitepress-patricia"
       }
     ],
     "publicJourneys": [],
@@ -168,12 +156,6 @@
         "description": "Camada propria para consolidar narrativa, leitura rapida e continuidade editorial.",
         "href": "https://mozgbrasil.github.io/node-vitepress-patricia/",
         "value": "GitHub Pages"
-      },
-      {
-        "title": "Repositorio publico do perfil",
-        "description": "Base versionada para publicacao, manutencao e auditoria do conteudo.",
-        "href": "https://github.com/mozgbrasil/node-vitepress-patricia",
-        "value": "GitHub"
       }
     ],
     "operationalPillars": [],
@@ -295,11 +277,6 @@
         "href": "https://mozgbrasil.github.io/node-vitepress-patricia/",
         "label": "Perfil ao vivo",
         "note": "superficie publica dedicada"
-      },
-      {
-        "href": "https://github.com/mozgbrasil/node-vitepress-patricia",
-        "label": "Repositorio publico",
-        "note": "destino de publicacao do perfil"
       }
     ],
     "presenceProfiles": [
@@ -308,8 +285,8 @@
         "label": "Perfil profissional",
         "title": "patricia",
         "handle": "@patricia",
-        "summary": "Presenca publica organizada em torno do LinkedIn, perfil ao vivo e repositorio publico dedicado.",
-        "image": "/logo-mini.svg",
+        "summary": "Presenca publica organizada em torno do LinkedIn e do perfil ao vivo.",
+        "image": "/assets/profile-branding/patricia.jpeg",
         "imageAlt": "Identidade publica do perfil Patricia Amorim",
         "imageNote": "Superficie profissional de Patricia Amorim",
         "primaryLinks": [
@@ -322,11 +299,6 @@
             "href": "https://mozgbrasil.github.io/node-vitepress-patricia/",
             "label": "Perfil ao vivo",
             "note": "superficie publica dedicada"
-          },
-          {
-            "href": "https://github.com/mozgbrasil/node-vitepress-patricia",
-            "label": "Repositorio publico",
-            "note": "publicacao do perfil"
           }
         ],
         "groups": [
@@ -340,15 +312,6 @@
               {
                 "href": "https://mozgbrasil.github.io/node-vitepress-patricia/",
                 "label": "Perfil ao vivo"
-              }
-            ]
-          },
-          {
-            "title": "Distribuicao editorial",
-            "links": [
-              {
-                "href": "https://github.com/mozgbrasil/node-vitepress-patricia",
-                "label": "Repositorio publico"
               }
             ]
           }
@@ -374,11 +337,6 @@
           "href": "https://mozgbrasil.github.io/node-vitepress-patricia/",
           "label": "Perfil ao vivo",
           "note": "superficie publica dedicada do perfil"
-        },
-        {
-          "href": "https://github.com/mozgbrasil/node-vitepress-patricia",
-          "label": "Repositorio publico",
-          "note": "destino publico da superficie editorial"
         }
       ],
       "schemaType": "Person",
@@ -388,25 +346,28 @@
           "value": "Perfil ao vivo",
           "label": "com apresentacao publica dedicada"
         },
-        { "value": "Repositorio publico", "label": "para extensao editorial" }
+        {
+          "value": "Gestão de produtos",
+          "label": "com leitura clara e objetiva"
+        }
       ],
       "heroMetricsEn": [
         { "value": "LinkedIn", "label": "as the main professional trail" },
         { "value": "Live profile", "label": "with a dedicated public surface" },
-        { "value": "Public repository", "label": "for editorial expansion" }
+        { "value": "Product leadership", "label": "with a clear narrative" }
       ],
       "navLinks": [],
       "pages": []
     }
   },
   "audit": {
-    "generated_at": "2026-04-24T20:00:21.143Z",
+    "generated_at": "2026-04-27T07:55:55.492Z",
     "company": "Patricia Amorim",
     "site_url": "https://mozgbrasil.github.io/node-vitepress-patricia/",
     "counts": {
       "pages": 3,
       "api_routes": 21,
-      "discovery_items": 39,
+      "discovery_items": 34,
       "portfolio_entries": 0,
       "project_dossiers": 0,
       "category_profiles": 0,
@@ -415,14 +376,14 @@
       "stack_technologies": 0,
       "operation_dossiers": 0,
       "public_journeys": 0,
-      "trust_signals": 3,
+      "trust_signals": 2,
       "specialties": 0,
       "projects": 0,
-      "surfaces": 3,
+      "surfaces": 2,
       "presence_profiles": 1,
-      "presence_groups": 2,
-      "presence_links": 6,
-      "contact_links": 3
+      "presence_groups": 1,
+      "presence_links": 4,
+      "contact_links": 2
     },
     "pages": ["/", "/contato", "/presenca"],
     "api_paths": [

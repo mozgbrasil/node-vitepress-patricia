@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T20:00:20.672Z",
+  "generated_at": "2026-04-27T07:55:55.128Z",
   "profile_id": "patricia",
   "label": "Patricia",
   "title": "Patricia Amorim | Perfil profissional",
@@ -20,11 +20,6 @@
       "href": "https://mozgbrasil.github.io/node-vitepress-patricia/",
       "label": "Perfil ao vivo",
       "note": "superficie publica dedicada do perfil"
-    },
-    {
-      "href": "https://github.com/mozgbrasil/node-vitepress-patricia",
-      "label": "Repositorio publico",
-      "note": "destino publico da superficie editorial"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-24T20:00:21.143Z",
+  "generated_at": "2026-04-27T07:55:55.492Z",
   "filters_applied": {},
-  "total_signals": 3,
-  "total_available_signals": 3,
-  "linked_signals": 3,
+  "total_signals": 2,
+  "total_available_signals": 2,
+  "linked_signals": 2,
   "signals": [
     {
       "title": "Perfil publico principal",
@@ -16,12 +16,6 @@
       "description": "Camada propria para consolidar narrativa, leitura rapida e continuidade editorial.",
       "href": "https://mozgbrasil.github.io/node-vitepress-patricia/",
       "value": "GitHub Pages"
-    },
-    {
-      "title": "Repositorio publico do perfil",
-      "description": "Base versionada para publicacao, manutencao e auditoria do conteudo.",
-      "href": "https://github.com/mozgbrasil/node-vitepress-patricia",
-      "value": "GitHub"
     }
   ]
 }

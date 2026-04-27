@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "br.com.mozg.twa",
+      "sha256_cert_fingerprints": [
+        "0A:8D:82:6D:9D:66:41:10:0C:11:CA:87:FA:A9:15:88:4D:6D:BA:77:3B:63:D2:22:FD:20:A8:E5:81:BD:B6:5F"
+      ]
+    }
+  }
+]

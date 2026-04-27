@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T20:00:21.143Z",
+  "generated_at": "2026-04-27T07:55:55.492Z",
   "active_profile": "patricia",
   "profiles": [
     {
@@ -60,10 +60,7 @@
       "headline": "Perfil profissional",
       "publicRepository": "https://github.com/mozgbrasil/node-vitepress-francisco",
       "primaryUrl": "https://www.linkedin.com/in/francisco-amorim-35228438/",
-      "sourceUrls": [
-        "https://www.linkedin.com/in/francisco-amorim-35228438/",
-        "https://github.com/mozgbrasil/node-vitepress-francisco"
-      ],
+      "sourceUrls": ["https://www.linkedin.com/in/francisco-amorim-35228438/"],
       "referenceLinks": [
         {
           "href": "https://www.linkedin.com/in/francisco-amorim-35228438/",
@@ -74,11 +71,6 @@
           "href": "https://mozgbrasil.github.io/node-vitepress-francisco/",
           "label": "Perfil ao vivo",
           "note": "superficie publica dedicada do perfil"
-        },
-        {
-          "href": "https://github.com/mozgbrasil/node-vitepress-francisco",
-          "label": "Repositorio publico",
-          "note": "destino publico da superficie editorial"
         }
       ],
       "schemaType": "Person",
@@ -89,17 +81,14 @@
           "label": "com apresentacao publica dedicada"
         },
         {
-          "value": "Repositorio publico",
-          "label": "para auditoria e evolucao editorial"
+          "value": "Portfólio pessoal",
+          "label": "com narrativa simples e direta"
         }
       ],
       "heroMetricsEn": [
         { "value": "LinkedIn", "label": "as the main professional trail" },
         { "value": "Live profile", "label": "with a dedicated public surface" },
-        {
-          "value": "Public repository",
-          "label": "for auditability and editorial evolution"
-        }
+        { "value": "Personal portfolio", "label": "with a clear narrative" }
       ],
       "navLinks": [],
       "pages": []
@@ -108,53 +97,37 @@
       "id": "alice",
       "slug": "alice",
       "label": "Alice",
-      "title": "Maria Alice dos Santos Amorim | Mozg & Cerebrum",
-      "headline": "Chief Executive Officer and Founder of Mozg & Cerebrum",
+      "title": "Maria Alice dos Santos Amorim | Alice Holding",
+      "headline": "Super empreendedora e fundadora da Alice Holding",
       "publicRepository": "https://github.com/mozgbrasil/node-vitepress-alice",
-      "primaryUrl": "https://mozg.com.br/",
-      "sourceUrls": [
-        "https://mozg.com.br/",
-        "https://www.cerebrum.com.br/",
-        "https://github.com/mozgbrasil/node-vitepress-alice"
-      ],
+      "primaryUrl": "https://mozgbrasil.github.io/node-vitepress-alice/",
+      "sourceUrls": ["https://mozgbrasil.github.io/node-vitepress-alice/"],
       "referenceLinks": [
-        {
-          "href": "https://mozg.com.br/",
-          "label": "Conhecer Mozg",
-          "note": "site institucional com foco em arquitetura, produto e operacao"
-        },
-        {
-          "href": "https://www.cerebrum.com.br/",
-          "label": "Conhecer Cerebrum",
-          "note": "site institucional focado em IA como infraestrutura corporativa"
-        },
         {
           "href": "https://mozgbrasil.github.io/node-vitepress-alice/",
           "label": "Perfil ao vivo",
-          "note": "superficie publica dedicada do perfil executivo"
-        },
-        {
-          "href": "https://github.com/mozgbrasil/node-vitepress-alice",
-          "label": "Repositorio publico",
-          "note": "destino publico da superficie editorial"
+          "note": "superficie publica dedicada do perfil institucional"
         }
       ],
       "schemaType": "Person",
       "heroMetrics": [
-        { "value": "Mozg", "label": "com arquitetura e operacao auditaveis" },
         {
-          "value": "AI-First",
-          "label": "como frente institucional da Cerebrum"
+          "value": "Alice Holding",
+          "label": "como marca institucional central"
         },
-        { "value": "CNPJ ativo", "label": "07.361.259/0001-07 na Cerebrum" }
+        { "value": "Multi-negocios", "label": "com leitura clara e moderna" },
+        {
+          "value": "Presença autoral",
+          "label": "com narrativa publica dedicada"
+        }
       ],
       "heroMetricsEn": [
+        { "value": "Alice Holding", "label": "as the central brand" },
         {
-          "value": "Mozg",
-          "label": "with auditable architecture and operations"
+          "value": "Multi-business",
+          "label": "with a modern public narrative"
         },
-        { "value": "AI-First", "label": "as Cerebrum institutional front" },
-        { "value": "Active tax id", "label": "07.361.259/0001-07 at Cerebrum" }
+        { "value": "Founder-led", "label": "with a dedicated public presence" }
       ],
       "navLinks": [],
       "pages": []
@@ -405,11 +378,6 @@
           "href": "https://mozgbrasil.github.io/node-vitepress-marcelo/",
           "label": "Perfil ao vivo",
           "note": "superficie publica dedicada do perfil"
-        },
-        {
-          "href": "https://github.com/mozgbrasil/node-vitepress-marcelo",
-          "label": "Repositorio publico",
-          "note": "destino publico da stack editorial"
         }
       ],
       "schemaType": "Person",
@@ -445,11 +413,6 @@
           "href": "https://mozgbrasil.github.io/node-vitepress-patricia/",
           "label": "Perfil ao vivo",
           "note": "superficie publica dedicada do perfil"
-        },
-        {
-          "href": "https://github.com/mozgbrasil/node-vitepress-patricia",
-          "label": "Repositorio publico",
-          "note": "destino publico da superficie editorial"
         }
       ],
       "schemaType": "Person",
@@ -459,12 +422,15 @@
           "value": "Perfil ao vivo",
           "label": "com apresentacao publica dedicada"
         },
-        { "value": "Repositorio publico", "label": "para extensao editorial" }
+        {
+          "value": "Gestão de produtos",
+          "label": "com leitura clara e objetiva"
+        }
       ],
       "heroMetricsEn": [
         { "value": "LinkedIn", "label": "as the main professional trail" },
         { "value": "Live profile", "label": "with a dedicated public surface" },
-        { "value": "Public repository", "label": "for editorial expansion" }
+        { "value": "Product leadership", "label": "with a clear narrative" }
       ],
       "navLinks": [],
       "pages": []
@@ -488,11 +454,6 @@
           "href": "https://mozgbrasil.github.io/node-vitepress-danielle/",
           "label": "Perfil ao vivo",
           "note": "superficie publica dedicada do perfil"
-        },
-        {
-          "href": "https://github.com/mozgbrasil/node-vitepress-danielle",
-          "label": "Repositorio publico",
-          "note": "destino publico da superficie editorial"
         }
       ],
       "schemaType": "Person",
@@ -505,12 +466,15 @@
           "value": "Perfil ao vivo",
           "label": "com apresentacao publica dedicada"
         },
-        { "value": "Repositorio publico", "label": "para expansao editorial" }
+        {
+          "value": "Presença própria",
+          "label": "com identidade profissional clara"
+        }
       ],
       "heroMetricsEn": [
         { "value": "LinkedIn", "label": "as the central professional surface" },
         { "value": "Live profile", "label": "with a dedicated public surface" },
-        { "value": "Public repository", "label": "for editorial expansion" }
+        { "value": "Personal presence", "label": "with a clear identity" }
       ],
       "navLinks": [],
       "pages": []
@@ -543,11 +507,6 @@
           "href": "https://mozgbrasil.github.io/node-vitepress-edificio-campanella/",
           "label": "Perfil ao vivo",
           "note": "superficie publica dedicada do perfil"
-        },
-        {
-          "href": "https://github.com/mozgbrasil/node-vitepress-edificio-campanella",
-          "label": "Repositorio publico",
-          "note": "destino publico da superficie editorial"
         }
       ],
       "schemaType": "Organization",
@@ -566,6 +525,78 @@
         },
         { "value": "Active tax id", "label": "05.156.509/0001-41" },
         { "value": "Itaquera", "label": "Avenida Campanella, 1297" }
+      ],
+      "navLinks": [],
+      "pages": []
+    },
+    {
+      "id": "ganem",
+      "slug": "ganem",
+      "label": "Ganem",
+      "title": "Familia Ganem | Presenca publica institucional",
+      "headline": "Familia de liderancas politicas com defesa publica da causa animal",
+      "publicRepository": "https://github.com/mozgbrasil/node-vitepress-ganem",
+      "primaryUrl": "https://mozgbrasil.github.io/node-vitepress-ganem/",
+      "sourceUrls": [
+        "https://www.saopaulo.sp.leg.br/vereador/simone-ganem/",
+        "https://www.instagram.com/simoneganemsp/",
+        "https://web.facebook.com/simoneganemsp/?locale=pt_BR&_rdc=1&_rdr#",
+        "https://www.instagram.com/clariceganemsp/",
+        "https://www.al.sp.gov.br/deputado?matricula=300662",
+        "https://www.instagram.com/brunoganemsp/",
+        "https://www.camara.leg.br/deputados/220635",
+        "https://www.instagram.com/lucasganem.mg/",
+        "https://www.cmbh.mg.gov.br/vereadores/lucas-ganem"
+      ],
+      "referenceLinks": [
+        {
+          "href": "https://www.saopaulo.sp.leg.br/vereador/simone-ganem/",
+          "label": "Simone Ganem | Camara Municipal de Sao Paulo",
+          "note": "pagina oficial do mandato municipal"
+        },
+        {
+          "href": "https://www.al.sp.gov.br/deputado?matricula=300662",
+          "label": "Clarice Ganem | ALESP",
+          "note": "pagina oficial do mandato estadual"
+        },
+        {
+          "href": "https://www.camara.leg.br/deputados/220635",
+          "label": "Bruno Ganem | Camara dos Deputados",
+          "note": "pagina oficial do mandato federal"
+        },
+        {
+          "href": "https://www.cmbh.mg.gov.br/vereadores/lucas-ganem",
+          "label": "Lucas Ganem | CMBH",
+          "note": "pagina oficial do mandato municipal em Belo Horizonte"
+        },
+        {
+          "href": "https://mozgbrasil.github.io/node-vitepress-ganem/",
+          "label": "Perfil ao vivo",
+          "note": "superficie institucional da Familia Ganem"
+        }
+      ],
+      "schemaType": "Organization",
+      "heroMetrics": [
+        {
+          "value": "4 liderancas",
+          "label": "publicas conectadas por uma pauta central"
+        },
+        {
+          "value": "Sao Paulo + Brasilia + BH",
+          "label": "com presenca institucional distribuida"
+        },
+        { "value": "Causa animal", "label": "como bandeira publica recorrente" }
+      ],
+      "heroMetricsEn": [
+        {
+          "value": "4 public leaders",
+          "label": "connected by one core public agenda"
+        },
+        {
+          "value": "Sao Paulo + Brasilia + BH",
+          "label": "with distributed institutional presence"
+        },
+        { "value": "Animal cause", "label": "as a recurring public banner" }
       ],
       "navLinks": [],
       "pages": []
